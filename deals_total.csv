@@ -1,0 +1,1122 @@
+hotel_name,nightly_rate,promo_txt,deal_value,deal_type,start_date,end_date,city
+Best Western Hotel,538,%6 off your stay,-6,pct,2016-12-11,2016-12-12,New York
+Best Western Hotel,538,$62 off your stay,-62,rebate,2016-12-13,2016-12-19,New York
+Best Western Hotel,538,$39 off your stay 3 nights or more,-39,rebate,2016-12-20,2016-12-25,New York
+Best Western Hotel,538,$39 off your stay,-39,rebate,2016-12-26,2017-01-04,New York
+Best Western Hotel,538,$60 off your stay 3 nights or more,-60,rebate,2017-01-07,2017-01-17,New York
+Drury Inn,539,%7 off your stay,-7,pct,2016-12-13,2017-01-05,New York
+Drury Inn,539,%7 off your stay,-7,pct,2017-01-07,2017-01-29,New York
+Quality Inn,561,$21 off your stay 3 nights or more,-21,rebate,2016-12-12,2017-01-08,New York
+Park Plaza,583,%6 off your stay,-6,pct,2016-12-12,2016-12-23,New York
+Park Plaza,583,$82 off your stay 3 nights or more,-82,rebate,2016-12-24,2017-01-06,New York
+Park Plaza,583,%5 off your stay,-5,pct,2017-01-07,2017-01-11,New York
+Hilton Garden Inn,409,$49 off your stay,-49,rebate,2016-12-12,2016-12-25,New York
+Hilton Garden Inn,409,$55 off your stay 3 nights or more,-55,rebate,2016-12-30,2017-01-17,New York
+Embassy Suites by Hilton,483,$30 off your stay,-30,rebate,2016-12-11,2016-12-17,New York
+Embassy Suites by Hilton,483,$25 off your stay 3 nights or more,-25,rebate,2016-12-19,2016-12-22,New York
+Embassy Suites by Hilton,483,$26 off your stay 3 nights or more,-26,rebate,2016-12-23,2017-01-18,New York
+Hyatt Plaza,408,$26 off your stay,-26,rebate,2016-12-14,2016-12-19,New York
+Hyatt Plaza,408,$9 off your stay 3 nights or more,-9,rebate,2016-12-20,2017-01-18,New York
+Holiday Inn,407,$6 off your stay,-6,rebate,2016-12-11,2016-12-17,New York
+Holiday Inn,407,$45 off your stay 3 nights or more,-45,rebate,2016-12-18,2016-12-27,New York
+Holiday Inn,407,$31 off your stay 3 nights or more,-31,rebate,2016-12-28,2017-01-21,New York
+Wyndham,531,%7 off your stay,-7,pct,2016-12-12,2017-01-03,New York
+Wyndham,531,%9 off your stay,-9,pct,2017-01-04,2017-01-19,New York
+Ramada,556,$69 off your stay,-69,rebate,2016-12-11,2016-12-23,New York
+Ramada,556,$54 off your stay,-54,rebate,2016-12-25,2016-12-26,New York
+Ramada,556,$82 off your stay 3 nights or more,-82,rebate,2016-12-29,2017-01-24,New York
+Days Inn,505,%13 off your stay,-13,pct,2016-12-11,2016-12-24,New York
+Days Inn,505,%7 off your stay,-7,pct,2016-12-25,2016-12-28,New York
+Days Inn,505,$91 off your stay,-91,rebate,2016-12-29,2017-01-04,New York
+Days Inn,505,$52 off your stay 3 nights or more,-52,rebate,2017-01-05,2017-02-03,New York
+La Quinta Inns,558,$26 off your stay 3 nights or more,-26,rebate,2016-12-11,2016-12-29,New York
+La Quinta Inns,558,$91 off your stay 3 nights or more,-91,rebate,2016-12-31,2017-01-16,New York
+Hyatt Regency,566,$19 off your stay 3 nights or more,-19,rebate,2016-12-11,2016-12-16,New York
+Hyatt Regency,566,$12 off your stay,-12,rebate,2016-12-17,2016-12-28,New York
+Hyatt Regency,566,%22 off your stay,-22,pct,2016-12-31,2017-01-06,New York
+Hyatt Regency,566,%16 off your stay,-16,pct,2017-01-08,2017-01-31,New York
+Marriot,530,$6 off your stay 3 nights or more,-6,rebate,2016-12-12,2016-12-18,New York
+Marriot,530,$26 off your stay 3 nights or more,-26,rebate,2016-12-19,2016-12-26,New York
+Marriot,530,$19 off your stay,-19,rebate,2016-12-27,2017-01-08,New York
+Marriot,530,$27 off your stay,-27,rebate,2017-01-10,2017-01-12,New York
+Marriot,530,$16 off your stay 3 nights or more,-16,rebate,2017-01-13,2017-02-04,New York
+Delta,410,%10 off your stay,-10,pct,2016-12-11,2016-12-13,New York
+Delta,410,%8 off your stay,-8,pct,2016-12-16,2017-01-04,New York
+Delta,410,$72 off your stay 3 nights or more,-72,rebate,2017-01-07,2017-01-18,New York
+Best Western Hotel,502,%18 off your stay,-18,pct,2016-12-11,2017-01-05,Los Angeles
+Best Western Hotel,502,%9 off your stay,-9,pct,2017-01-06,2017-01-29,Los Angeles
+Drury Inn,444,%7 off your stay,-7,pct,2016-12-11,2016-12-25,Los Angeles
+Drury Inn,444,$12 off your stay,-12,rebate,2016-12-26,2016-12-28,Los Angeles
+Drury Inn,444,$18 off your stay 3 nights or more,-18,rebate,2016-12-29,2017-01-03,Los Angeles
+Drury Inn,444,%15 off your stay,-15,pct,2017-01-04,2017-01-22,Los Angeles
+Quality Inn,412,$16 off your stay,-16,rebate,2016-12-11,2016-12-16,Los Angeles
+Quality Inn,412,%5 off your stay,-5,pct,2016-12-17,2016-12-28,Los Angeles
+Quality Inn,412,%5 off your stay,-5,pct,2016-12-29,2017-01-14,Los Angeles
+Park Plaza,432,$6 off your stay 3 nights or more,-6,rebate,2016-12-13,2017-01-11,Los Angeles
+Hilton Garden Inn,484,$20 off your stay 3 nights or more,-20,rebate,2016-12-13,2017-01-10,Los Angeles
+Embassy Suites by Hilton,549,$20 off your stay 3 nights or more,-20,rebate,2016-12-11,2016-12-26,Los Angeles
+Embassy Suites by Hilton,549,$33 off your stay 3 nights or more,-33,rebate,2016-12-28,2017-01-06,Los Angeles
+Embassy Suites by Hilton,549,%10 off your stay,-10,pct,2017-01-07,2017-01-22,Los Angeles
+Hyatt Plaza,508,$24 off your stay 3 nights or more,-24,rebate,2016-12-11,2017-01-02,Los Angeles
+Hyatt Plaza,508,$21 off your stay 3 nights or more,-21,rebate,2017-01-03,2017-01-27,Los Angeles
+Holiday Inn,564,$22 off your stay,-22,rebate,2016-12-13,2016-12-15,Los Angeles
+Holiday Inn,564,$9 off your stay,-9,rebate,2016-12-16,2016-12-17,Los Angeles
+Holiday Inn,564,%23 off your stay,-23,pct,2016-12-19,2017-01-05,Los Angeles
+Holiday Inn,564,%6 off your stay,-6,pct,2017-01-06,2017-01-17,Los Angeles
+Wyndham,482,%9 off your stay,-9,pct,2016-12-13,2017-01-07,Los Angeles
+Wyndham,482,$15 off your stay,-15,rebate,2017-01-08,2017-01-15,Los Angeles
+Ramada,482,$25 off your stay 3 nights or more,-25,rebate,2016-12-11,2016-12-20,Los Angeles
+Ramada,482,$84 off your stay,-84,rebate,2016-12-22,2017-01-03,Los Angeles
+Ramada,482,$93 off your stay,-93,rebate,2017-01-04,2017-01-19,Los Angeles
+Days Inn,416,$16 off your stay,-16,rebate,2016-12-11,2016-12-22,Los Angeles
+Days Inn,416,$29 off your stay 3 nights or more,-29,rebate,2016-12-23,2017-01-23,Los Angeles
+La Quinta Inns,508,$67 off your stay,-67,rebate,2016-12-11,2016-12-20,Los Angeles
+La Quinta Inns,508,$25 off your stay,-25,rebate,2016-12-23,2016-12-30,Los Angeles
+La Quinta Inns,508,$18 off your stay,-18,rebate,2017-01-02,2017-01-04,Los Angeles
+La Quinta Inns,508,$83 off your stay,-83,rebate,2017-01-06,2017-01-17,Los Angeles
+Hyatt Regency,515,%5 off your stay,-5,pct,2016-12-12,2017-01-04,Los Angeles
+Hyatt Regency,515,$48 off your stay 3 nights or more,-48,rebate,2017-01-05,2017-02-04,Los Angeles
+Marriot,407,%11 off your stay,-11,pct,2016-12-11,2016-12-12,Los Angeles
+Marriot,407,$35 off your stay 3 nights or more,-35,rebate,2016-12-13,2017-01-11,Los Angeles
+Delta,402,%5 off your stay,-5,pct,2016-12-11,2016-12-12,Los Angeles
+Delta,402,$59 off your stay,-59,rebate,2016-12-13,2016-12-17,Los Angeles
+Delta,402,%5 off your stay,-5,pct,2016-12-20,2017-01-10,Los Angeles
+Delta,402,$28 off your stay,-28,rebate,2017-01-12,2017-01-13,Los Angeles
+Best Western Hotel,484,%12 off your stay,-12,pct,2016-12-12,2016-12-29,Chicago
+Best Western Hotel,484,%7 off your stay,-7,pct,2016-12-30,2017-01-02,Chicago
+Best Western Hotel,484,$112 off your stay 3 nights or more,-112,rebate,2017-01-03,2017-01-26,Chicago
+Drury Inn,407,$9 off your stay,-9,rebate,2016-12-13,2016-12-26,Chicago
+Drury Inn,407,$22 off your stay 3 nights or more,-22,rebate,2016-12-28,2017-01-27,Chicago
+Quality Inn,529,$5 off your stay,-5,rebate,2016-12-13,2016-12-27,Chicago
+Quality Inn,529,%6 off your stay,-6,pct,2016-12-28,2017-01-15,Chicago
+Park Plaza,431,$10 off your stay,-10,rebate,2016-12-11,2016-12-12,Chicago
+Park Plaza,431,$86 off your stay 3 nights or more,-86,rebate,2016-12-14,2016-12-26,Chicago
+Park Plaza,431,$29 off your stay,-29,rebate,2016-12-27,2017-01-05,Chicago
+Park Plaza,431,$7 off your stay 3 nights or more,-7,rebate,2017-01-06,2017-01-19,Chicago
+Hilton Garden Inn,403,$14 off your stay,-14,rebate,2016-12-12,2016-12-18,Chicago
+Hilton Garden Inn,403,$57 off your stay 3 nights or more,-57,rebate,2016-12-19,2016-12-25,Chicago
+Hilton Garden Inn,403,%10 off your stay,-10,pct,2016-12-27,2017-01-01,Chicago
+Hilton Garden Inn,403,%7 off your stay,-7,pct,2017-01-02,2017-01-07,Chicago
+Hilton Garden Inn,403,%8 off your stay,-8,pct,2017-01-08,2017-01-19,Chicago
+Embassy Suites by Hilton,586,%8 off your stay,-8,pct,2016-12-13,2016-12-15,Chicago
+Embassy Suites by Hilton,586,%7 off your stay,-7,pct,2016-12-16,2017-01-10,Chicago
+Embassy Suites by Hilton,586,$10 off your stay 3 nights or more,-10,rebate,2017-01-11,2017-02-01,Chicago
+Hyatt Plaza,420,%15 off your stay,-15,pct,2016-12-11,2016-12-17,Chicago
+Hyatt Plaza,420,$15 off your stay 3 nights or more,-15,rebate,2016-12-18,2016-12-30,Chicago
+Hyatt Plaza,420,$15 off your stay 3 nights or more,-15,rebate,2016-12-31,2017-01-28,Chicago
+Holiday Inn,549,%9 off your stay,-9,pct,2016-12-13,2017-01-04,Chicago
+Holiday Inn,549,%9 off your stay,-9,pct,2017-01-05,2017-01-23,Chicago
+Wyndham,567,%11 off your stay,-11,pct,2016-12-13,2016-12-19,Chicago
+Wyndham,567,%11 off your stay,-11,pct,2016-12-20,2017-01-11,Chicago
+Ramada,493,$36 off your stay,-36,rebate,2016-12-11,2016-12-14,Chicago
+Ramada,493,$56 off your stay 3 nights or more,-56,rebate,2016-12-15,2017-01-08,Chicago
+Ramada,493,%23 off your stay,-23,pct,2017-01-10,2017-01-31,Chicago
+Days Inn,541,$15 off your stay,-15,rebate,2016-12-11,2016-12-12,Chicago
+Days Inn,541,$7 off your stay 3 nights or more,-7,rebate,2016-12-13,2017-01-05,Chicago
+Days Inn,541,%6 off your stay,-6,pct,2017-01-07,2017-01-16,Chicago
+La Quinta Inns,449,$8 off your stay,-8,rebate,2016-12-11,2016-12-25,Chicago
+La Quinta Inns,449,%7 off your stay,-7,pct,2016-12-26,2017-01-05,Chicago
+La Quinta Inns,449,$16 off your stay 3 nights or more,-16,rebate,2017-01-06,2017-01-16,Chicago
+Hyatt Regency,512,$9 off your stay 3 nights or more,-9,rebate,2016-12-11,2016-12-14,Chicago
+Hyatt Regency,512,$40 off your stay 3 nights or more,-40,rebate,2016-12-16,2017-01-03,Chicago
+Hyatt Regency,512,$41 off your stay 3 nights or more,-41,rebate,2017-01-06,2017-01-31,Chicago
+Marriot,592,%12 off your stay,-12,pct,2016-12-12,2016-12-31,Chicago
+Marriot,592,%6 off your stay,-6,pct,2017-01-01,2017-01-22,Chicago
+Delta,495,$24 off your stay 3 nights or more,-24,rebate,2016-12-13,2017-01-04,Chicago
+Delta,495,$86 off your stay 3 nights or more,-86,rebate,2017-01-05,2017-01-11,Chicago
+Best Western Hotel,422,$19 off your stay,-19,rebate,2016-12-11,2016-12-14,Dallas
+Best Western Hotel,422,%15 off your stay,-15,pct,2016-12-15,2016-12-17,Dallas
+Best Western Hotel,422,%20 off your stay,-20,pct,2016-12-18,2016-12-24,Dallas
+Best Western Hotel,422,$25 off your stay,-25,rebate,2016-12-25,2016-12-27,Dallas
+Best Western Hotel,422,$22 off your stay 3 nights or more,-22,rebate,2016-12-30,2017-01-11,Dallas
+Best Western Hotel,422,$27 off your stay 3 nights or more,-27,rebate,2017-01-12,2017-02-05,Dallas
+Drury Inn,514,%13 off your stay,-13,pct,2016-12-12,2016-12-25,Dallas
+Drury Inn,514,$17 off your stay 3 nights or more,-17,rebate,2016-12-27,2017-01-05,Dallas
+Drury Inn,514,$6 off your stay 3 nights or more,-6,rebate,2017-01-06,2017-01-18,Dallas
+Quality Inn,559,$70 off your stay,-70,rebate,2016-12-11,2016-12-19,Dallas
+Quality Inn,559,$68 off your stay 3 nights or more,-68,rebate,2016-12-21,2017-01-08,Dallas
+Quality Inn,559,$35 off your stay,-35,rebate,2017-01-11,2017-01-14,Dallas
+Park Plaza,453,%16 off your stay,-16,pct,2016-12-11,2017-01-04,Dallas
+Park Plaza,453,$37 off your stay 3 nights or more,-37,rebate,2017-01-06,2017-01-13,Dallas
+Hilton Garden Inn,476,$48 off your stay,-48,rebate,2016-12-11,2016-12-25,Dallas
+Hilton Garden Inn,476,$14 off your stay,-14,rebate,2016-12-26,2017-01-10,Dallas
+Hilton Garden Inn,476,%10 off your stay,-10,pct,2017-01-11,2017-01-30,Dallas
+Embassy Suites by Hilton,541,%17 off your stay,-17,pct,2016-12-12,2016-12-27,Dallas
+Embassy Suites by Hilton,541,$12 off your stay,-12,rebate,2016-12-28,2017-01-06,Dallas
+Embassy Suites by Hilton,541,$8 off your stay,-8,rebate,2017-01-07,2017-01-19,Dallas
+Hyatt Plaza,522,$40 off your stay 3 nights or more,-40,rebate,2016-12-11,2016-12-16,Dallas
+Hyatt Plaza,522,$45 off your stay,-45,rebate,2016-12-17,2016-12-22,Dallas
+Hyatt Plaza,522,%8 off your stay,-8,pct,2016-12-23,2017-01-08,Dallas
+Hyatt Plaza,522,$19 off your stay 3 nights or more,-19,rebate,2017-01-11,2017-01-30,Dallas
+Holiday Inn,404,%10 off your stay,-10,pct,2016-12-11,2016-12-27,Dallas
+Holiday Inn,404,$10 off your stay 3 nights or more,-10,rebate,2016-12-28,2017-01-26,Dallas
+Wyndham,542,$99 off your stay,-99,rebate,2016-12-11,2016-12-18,Dallas
+Wyndham,542,%16 off your stay,-16,pct,2016-12-19,2017-01-09,Dallas
+Ramada,555,%7 off your stay,-7,pct,2016-12-11,2016-12-29,Dallas
+Ramada,555,$49 off your stay 3 nights or more,-49,rebate,2016-12-30,2017-01-20,Dallas
+Days Inn,439,%8 off your stay,-8,pct,2016-12-14,2016-12-16,Dallas
+Days Inn,439,$47 off your stay 3 nights or more,-47,rebate,2016-12-17,2016-12-29,Dallas
+Days Inn,439,$19 off your stay,-19,rebate,2016-12-30,2017-01-06,Dallas
+Days Inn,439,$25 off your stay,-25,rebate,2017-01-08,2017-01-10,Dallas
+Days Inn,439,%9 off your stay,-9,pct,2017-01-11,2017-01-12,Dallas
+Days Inn,439,$36 off your stay,-36,rebate,2017-01-14,2017-01-23,Dallas
+La Quinta Inns,537,$35 off your stay,-35,rebate,2016-12-11,2016-12-24,Dallas
+La Quinta Inns,537,%15 off your stay,-15,pct,2016-12-29,2017-01-20,Dallas
+Hyatt Regency,567,$34 off your stay 3 nights or more,-34,rebate,2016-12-12,2017-01-02,Dallas
+Hyatt Regency,567,$9 off your stay,-9,rebate,2017-01-03,2017-01-13,Dallas
+Marriot,433,$59 off your stay,-59,rebate,2016-12-11,2016-12-20,Dallas
+Marriot,433,$54 off your stay 3 nights or more,-54,rebate,2016-12-21,2017-01-18,Dallas
+Delta,559,%9 off your stay,-9,pct,2016-12-11,2016-12-12,Dallas
+Delta,559,%8 off your stay,-8,pct,2016-12-15,2016-12-17,Dallas
+Delta,559,$16 off your stay,-16,rebate,2016-12-18,2016-12-20,Dallas
+Delta,559,$13 off your stay,-13,rebate,2016-12-22,2016-12-28,Dallas
+Delta,559,$8 off your stay,-8,rebate,2016-12-31,2017-01-03,Dallas
+Delta,559,%8 off your stay,-8,pct,2017-01-06,2017-01-10,Dallas
+Delta,559,$17 off your stay 3 nights or more,-17,rebate,2017-01-12,2017-02-07,Dallas
+Best Western Hotel,453,$45 off your stay,-45,rebate,2016-12-11,2016-12-13,Houston
+Best Western Hotel,453,$92 off your stay,-92,rebate,2016-12-16,2016-12-28,Houston
+Best Western Hotel,453,$81 off your stay,-81,rebate,2016-12-29,2017-01-12,Houston
+Drury Inn,431,%9 off your stay,-9,pct,2016-12-11,2016-12-23,Houston
+Drury Inn,431,$12 off your stay 3 nights or more,-12,rebate,2016-12-25,2016-12-30,Houston
+Drury Inn,431,$43 off your stay 3 nights or more,-43,rebate,2016-12-31,2017-01-21,Houston
+Quality Inn,594,$23 off your stay 3 nights or more,-23,rebate,2016-12-11,2016-12-24,Houston
+Quality Inn,594,%20 off your stay,-20,pct,2016-12-25,2016-12-29,Houston
+Quality Inn,594,%15 off your stay,-15,pct,2016-12-30,2017-01-15,Houston
+Park Plaza,462,$22 off your stay,-22,rebate,2016-12-11,2016-12-14,Houston
+Park Plaza,462,$5 off your stay 3 nights or more,-5,rebate,2016-12-15,2016-12-26,Houston
+Park Plaza,462,$25 off your stay 3 nights or more,-25,rebate,2016-12-28,2016-12-31,Houston
+Park Plaza,462,%25 off your stay,-25,pct,2017-01-02,2017-01-14,Houston
+Hilton Garden Inn,576,$58 off your stay 3 nights or more,-58,rebate,2016-12-13,2016-12-20,Houston
+Hilton Garden Inn,576,$65 off your stay,-65,rebate,2016-12-21,2016-12-23,Houston
+Hilton Garden Inn,576,$45 off your stay,-45,rebate,2016-12-24,2017-01-07,Houston
+Hilton Garden Inn,576,$25 off your stay 3 nights or more,-25,rebate,2017-01-10,2017-01-29,Houston
+Embassy Suites by Hilton,444,$31 off your stay,-31,rebate,2016-12-11,2016-12-14,Houston
+Embassy Suites by Hilton,444,%15 off your stay,-15,pct,2016-12-17,2017-01-07,Houston
+Embassy Suites by Hilton,444,$25 off your stay,-25,rebate,2017-01-08,2017-01-23,Houston
+Hyatt Plaza,475,%11 off your stay,-11,pct,2016-12-12,2016-12-29,Houston
+Hyatt Plaza,475,$11 off your stay 3 nights or more,-11,rebate,2016-12-31,2017-01-07,Houston
+Hyatt Plaza,475,$20 off your stay,-20,rebate,2017-01-08,2017-01-13,Houston
+Holiday Inn,507,$13 off your stay,-13,rebate,2016-12-11,2016-12-16,Houston
+Holiday Inn,507,$19 off your stay,-19,rebate,2016-12-18,2016-12-20,Houston
+Holiday Inn,507,$13 off your stay 3 nights or more,-13,rebate,2016-12-21,2016-12-25,Houston
+Holiday Inn,507,%17 off your stay,-17,pct,2016-12-28,2017-01-17,Houston
+Wyndham,449,$73 off your stay,-73,rebate,2016-12-11,2016-12-20,Houston
+Wyndham,449,%23 off your stay,-23,pct,2016-12-21,2017-01-02,Houston
+Wyndham,449,$95 off your stay,-95,rebate,2017-01-04,2017-01-13,Houston
+Ramada,468,$50 off your stay 3 nights or more,-50,rebate,2016-12-11,2017-01-03,Houston
+Ramada,468,$116 off your stay,-116,rebate,2017-01-06,2017-01-10,Houston
+Ramada,468,%7 off your stay,-7,pct,2017-01-11,2017-01-23,Houston
+Days Inn,494,$96 off your stay 3 nights or more,-96,rebate,2016-12-11,2016-12-29,Houston
+Days Inn,494,$18 off your stay 3 nights or more,-18,rebate,2017-01-01,2017-01-16,Houston
+La Quinta Inns,581,$6 off your stay,-6,rebate,2016-12-11,2016-12-24,Houston
+La Quinta Inns,581,$47 off your stay,-47,rebate,2016-12-25,2017-01-01,Houston
+La Quinta Inns,581,%17 off your stay,-17,pct,2017-01-03,2017-01-13,Houston
+Hyatt Regency,443,$52 off your stay,-52,rebate,2016-12-12,2016-12-23,Houston
+Hyatt Regency,443,$17 off your stay 3 nights or more,-17,rebate,2016-12-28,2016-12-31,Houston
+Hyatt Regency,443,%13 off your stay,-13,pct,2017-01-01,2017-01-25,Houston
+Marriot,405,%29 off your stay,-29,pct,2016-12-12,2016-12-13,Houston
+Marriot,405,$35 off your stay,-35,rebate,2016-12-15,2016-12-16,Houston
+Marriot,405,$71 off your stay,-71,rebate,2016-12-18,2016-12-29,Houston
+Marriot,405,$28 off your stay 3 nights or more,-28,rebate,2016-12-30,2017-01-10,Houston
+Marriot,405,$55 off your stay 3 nights or more,-55,rebate,2017-01-11,2017-02-03,Houston
+Delta,400,%6 off your stay,-6,pct,2016-12-11,2017-01-04,Houston
+Delta,400,%6 off your stay,-6,pct,2017-01-05,2017-01-07,Houston
+Delta,400,$32 off your stay 3 nights or more,-32,rebate,2017-01-08,2017-01-16,Houston
+Best Western Hotel,588,$52 off your stay,-52,rebate,2016-12-11,2016-12-12,Washington D.C.
+Best Western Hotel,588,$40 off your stay,-40,rebate,2016-12-13,2016-12-23,Washington D.C.
+Best Western Hotel,588,$18 off your stay,-18,rebate,2016-12-24,2016-12-28,Washington D.C.
+Best Western Hotel,588,%19 off your stay,-19,pct,2016-12-29,2017-01-12,Washington D.C.
+Best Western Hotel,588,%17 off your stay,-17,pct,2017-01-13,2017-02-02,Washington D.C.
+Drury Inn,490,%10 off your stay,-10,pct,2016-12-11,2017-01-05,Washington D.C.
+Drury Inn,490,%14 off your stay,-14,pct,2017-01-06,2017-01-16,Washington D.C.
+Quality Inn,498,$48 off your stay 3 nights or more,-48,rebate,2016-12-12,2017-01-07,Washington D.C.
+Quality Inn,498,$33 off your stay,-33,rebate,2017-01-09,2017-01-24,Washington D.C.
+Park Plaza,461,%13 off your stay,-13,pct,2016-12-11,2016-12-14,Washington D.C.
+Park Plaza,461,$10 off your stay 3 nights or more,-10,rebate,2016-12-19,2016-12-26,Washington D.C.
+Park Plaza,461,$34 off your stay,-34,rebate,2016-12-27,2016-12-29,Washington D.C.
+Park Plaza,461,$24 off your stay 3 nights or more,-24,rebate,2016-12-30,2017-01-29,Washington D.C.
+Hilton Garden Inn,511,$18 off your stay 3 nights or more,-18,rebate,2016-12-11,2017-01-10,Washington D.C.
+Embassy Suites by Hilton,479,%16 off your stay,-16,pct,2016-12-12,2017-01-01,Washington D.C.
+Embassy Suites by Hilton,479,%21 off your stay,-21,pct,2017-01-03,2017-01-07,Washington D.C.
+Embassy Suites by Hilton,479,%26 off your stay,-26,pct,2017-01-09,2017-01-16,Washington D.C.
+Hyatt Plaza,439,$20 off your stay,-20,rebate,2016-12-12,2016-12-25,Washington D.C.
+Hyatt Plaza,439,$58 off your stay,-58,rebate,2016-12-26,2017-01-07,Washington D.C.
+Hyatt Plaza,439,$25 off your stay 3 nights or more,-25,rebate,2017-01-08,2017-01-31,Washington D.C.
+Holiday Inn,562,$56 off your stay,-56,rebate,2016-12-17,2016-12-27,Washington D.C.
+Holiday Inn,562,$30 off your stay,-30,rebate,2016-12-29,2017-01-12,Washington D.C.
+Wyndham,449,$45 off your stay 3 nights or more,-45,rebate,2016-12-14,2017-01-14,Washington D.C.
+Ramada,408,$69 off your stay 3 nights or more,-69,rebate,2016-12-13,2016-12-17,Washington D.C.
+Ramada,408,%9 off your stay,-9,pct,2016-12-22,2017-01-14,Washington D.C.
+Days Inn,453,%18 off your stay,-18,pct,2016-12-11,2016-12-30,Washington D.C.
+Days Inn,453,$32 off your stay,-32,rebate,2016-12-31,2017-01-07,Washington D.C.
+Days Inn,453,%13 off your stay,-13,pct,2017-01-08,2017-01-21,Washington D.C.
+La Quinta Inns,527,$35 off your stay 3 nights or more,-35,rebate,2016-12-11,2017-01-07,Washington D.C.
+Hyatt Regency,434,$14 off your stay 3 nights or more,-14,rebate,2016-12-14,2017-01-01,Washington D.C.
+Hyatt Regency,434,$18 off your stay,-18,rebate,2017-01-02,2017-01-15,Washington D.C.
+Marriot,425,%12 off your stay,-12,pct,2016-12-11,2016-12-24,Washington D.C.
+Marriot,425,$81 off your stay,-81,rebate,2016-12-25,2017-01-02,Washington D.C.
+Marriot,425,%8 off your stay,-8,pct,2017-01-05,2017-01-23,Washington D.C.
+Delta,420,$12 off your stay 3 nights or more,-12,rebate,2016-12-11,2016-12-30,Washington D.C.
+Delta,420,%8 off your stay,-8,pct,2016-12-31,2017-01-21,Washington D.C.
+Best Western Hotel,498,%6 off your stay,-6,pct,2016-12-11,2016-12-13,Philadelphia 
+Best Western Hotel,498,$16 off your stay,-16,rebate,2016-12-14,2016-12-17,Philadelphia 
+Best Western Hotel,498,$72 off your stay 3 nights or more,-72,rebate,2016-12-18,2017-01-10,Philadelphia 
+Best Western Hotel,498,$60 off your stay,-60,rebate,2017-01-12,2017-01-15,Philadelphia 
+Drury Inn,516,%6 off your stay,-6,pct,2016-12-11,2016-12-29,Philadelphia 
+Drury Inn,516,$39 off your stay 3 nights or more,-39,rebate,2017-01-02,2017-01-05,Philadelphia 
+Drury Inn,516,%8 off your stay,-8,pct,2017-01-06,2017-01-07,Philadelphia 
+Drury Inn,516,$30 off your stay 3 nights or more,-30,rebate,2017-01-08,2017-01-30,Philadelphia 
+Quality Inn,570,$86 off your stay 3 nights or more,-86,rebate,2016-12-11,2016-12-17,Philadelphia 
+Quality Inn,570,$78 off your stay 3 nights or more,-78,rebate,2016-12-19,2017-01-16,Philadelphia 
+Park Plaza,498,%18 off your stay,-18,pct,2016-12-11,2016-12-27,Philadelphia 
+Park Plaza,498,%17 off your stay,-17,pct,2016-12-30,2017-01-18,Philadelphia 
+Hilton Garden Inn,567,%20 off your stay,-20,pct,2016-12-12,2016-12-24,Philadelphia 
+Hilton Garden Inn,567,%14 off your stay,-14,pct,2016-12-29,2017-01-21,Philadelphia 
+Embassy Suites by Hilton,520,$18 off your stay,-18,rebate,2016-12-13,2016-12-15,Philadelphia 
+Embassy Suites by Hilton,520,%5 off your stay,-5,pct,2016-12-17,2016-12-20,Philadelphia 
+Embassy Suites by Hilton,520,$18 off your stay,-18,rebate,2016-12-21,2017-01-05,Philadelphia 
+Embassy Suites by Hilton,520,$9 off your stay,-9,rebate,2017-01-06,2017-01-21,Philadelphia 
+Hyatt Plaza,463,$6 off your stay 3 nights or more,-6,rebate,2016-12-12,2017-01-04,Philadelphia 
+Hyatt Plaza,463,$72 off your stay,-72,rebate,2017-01-05,2017-01-19,Philadelphia 
+Holiday Inn,453,$92 off your stay,-92,rebate,2016-12-12,2016-12-20,Philadelphia 
+Holiday Inn,453,$99 off your stay 3 nights or more,-99,rebate,2016-12-21,2017-01-16,Philadelphia 
+Wyndham,595,$62 off your stay 3 nights or more,-62,rebate,2016-12-12,2017-01-08,Philadelphia 
+Wyndham,595,$57 off your stay 3 nights or more,-57,rebate,2017-01-09,2017-01-19,Philadelphia 
+Ramada,512,$21 off your stay,-21,rebate,2016-12-12,2016-12-24,Philadelphia 
+Ramada,512,%5 off your stay,-5,pct,2016-12-25,2016-12-27,Philadelphia 
+Ramada,512,$28 off your stay 3 nights or more,-28,rebate,2016-12-28,2017-01-11,Philadelphia 
+Days Inn,535,$6 off your stay,-6,rebate,2016-12-11,2016-12-13,Philadelphia 
+Days Inn,535,$11 off your stay,-11,rebate,2016-12-18,2016-12-19,Philadelphia 
+Days Inn,535,%6 off your stay,-6,pct,2016-12-20,2017-01-11,Philadelphia 
+La Quinta Inns,491,$28 off your stay,-28,rebate,2016-12-11,2016-12-13,Philadelphia 
+La Quinta Inns,491,$27 off your stay 3 nights or more,-27,rebate,2016-12-14,2016-12-31,Philadelphia 
+La Quinta Inns,491,%8 off your stay,-8,pct,2017-01-01,2017-01-05,Philadelphia 
+La Quinta Inns,491,$17 off your stay 3 nights or more,-17,rebate,2017-01-07,2017-01-29,Philadelphia 
+Hyatt Regency,587,%23 off your stay,-23,pct,2016-12-12,2016-12-14,Philadelphia 
+Hyatt Regency,587,$5 off your stay 3 nights or more,-5,rebate,2016-12-15,2017-01-09,Philadelphia 
+Hyatt Regency,587,$12 off your stay 3 nights or more,-12,rebate,2017-01-10,2017-01-26,Philadelphia 
+Marriot,434,$47 off your stay 3 nights or more,-47,rebate,2016-12-14,2016-12-22,Philadelphia 
+Marriot,434,$26 off your stay,-26,rebate,2016-12-23,2017-01-01,Philadelphia 
+Marriot,434,%11 off your stay,-11,pct,2017-01-03,2017-01-06,Philadelphia 
+Marriot,434,$77 off your stay,-77,rebate,2017-01-07,2017-01-09,Philadelphia 
+Marriot,434,$73 off your stay 3 nights or more,-73,rebate,2017-01-10,2017-02-08,Philadelphia 
+Delta,507,$80 off your stay 3 nights or more,-80,rebate,2016-12-11,2016-12-18,Philadelphia 
+Delta,507,$67 off your stay,-67,rebate,2016-12-19,2017-01-02,Philadelphia 
+Delta,507,$12 off your stay 3 nights or more,-12,rebate,2017-01-03,2017-01-21,Philadelphia 
+Best Western Hotel,515,%13 off your stay,-13,pct,2016-12-11,2016-12-21,Miami
+Best Western Hotel,515,%9 off your stay,-9,pct,2016-12-23,2017-01-01,Miami
+Best Western Hotel,515,$42 off your stay,-42,rebate,2017-01-02,2017-01-03,Miami
+Best Western Hotel,515,%6 off your stay,-6,pct,2017-01-06,2017-01-18,Miami
+Drury Inn,527,$46 off your stay 3 nights or more,-46,rebate,2016-12-12,2016-12-22,Miami
+Drury Inn,527,%29 off your stay,-29,pct,2016-12-24,2017-01-16,Miami
+Quality Inn,420,%19 off your stay,-19,pct,2016-12-12,2016-12-22,Miami
+Quality Inn,420,%18 off your stay,-18,pct,2016-12-23,2016-12-30,Miami
+Quality Inn,420,%14 off your stay,-14,pct,2016-12-31,2017-01-04,Miami
+Quality Inn,420,%21 off your stay,-21,pct,2017-01-08,2017-01-18,Miami
+Park Plaza,431,%20 off your stay,-20,pct,2016-12-11,2017-01-02,Miami
+Park Plaza,431,$36 off your stay 3 nights or more,-36,rebate,2017-01-03,2017-01-23,Miami
+Hilton Garden Inn,542,$53 off your stay 3 nights or more,-53,rebate,2016-12-12,2017-01-04,Miami
+Hilton Garden Inn,542,$46 off your stay,-46,rebate,2017-01-06,2017-01-20,Miami
+Embassy Suites by Hilton,473,%16 off your stay,-16,pct,2016-12-12,2017-01-06,Miami
+Embassy Suites by Hilton,473,$6 off your stay 3 nights or more,-6,rebate,2017-01-07,2017-01-27,Miami
+Hyatt Plaza,586,$53 off your stay 3 nights or more,-53,rebate,2016-12-12,2016-12-15,Miami
+Hyatt Plaza,586,$90 off your stay 3 nights or more,-90,rebate,2016-12-16,2017-01-02,Miami
+Hyatt Plaza,586,$83 off your stay,-83,rebate,2017-01-04,2017-01-06,Miami
+Hyatt Plaza,586,$85 off your stay,-85,rebate,2017-01-07,2017-01-15,Miami
+Holiday Inn,439,%11 off your stay,-11,pct,2016-12-12,2016-12-14,Miami
+Holiday Inn,439,$59 off your stay 3 nights or more,-59,rebate,2016-12-15,2017-01-15,Miami
+Wyndham,547,%9 off your stay,-9,pct,2016-12-11,2017-01-03,Miami
+Wyndham,547,$60 off your stay,-60,rebate,2017-01-04,2017-01-12,Miami
+Ramada,498,$58 off your stay 3 nights or more,-58,rebate,2016-12-12,2016-12-17,Miami
+Ramada,498,$22 off your stay 3 nights or more,-22,rebate,2016-12-18,2016-12-29,Miami
+Ramada,498,$29 off your stay 3 nights or more,-29,rebate,2016-12-30,2017-01-02,Miami
+Ramada,498,$112 off your stay,-112,rebate,2017-01-03,2017-01-13,Miami
+Days Inn,574,%13 off your stay,-13,pct,2016-12-12,2016-12-15,Miami
+Days Inn,574,$8 off your stay 3 nights or more,-8,rebate,2016-12-16,2017-01-06,Miami
+Days Inn,574,$5 off your stay 3 nights or more,-5,rebate,2017-01-07,2017-02-02,Miami
+La Quinta Inns,555,%23 off your stay,-23,pct,2016-12-11,2016-12-13,Miami
+La Quinta Inns,555,$16 off your stay,-16,rebate,2016-12-17,2017-01-01,Miami
+La Quinta Inns,555,$22 off your stay 3 nights or more,-22,rebate,2017-01-02,2017-01-05,Miami
+La Quinta Inns,555,%16 off your stay,-16,pct,2017-01-06,2017-01-17,Miami
+Hyatt Regency,508,$39 off your stay,-39,rebate,2016-12-11,2016-12-12,Miami
+Hyatt Regency,508,%13 off your stay,-13,pct,2016-12-13,2016-12-27,Miami
+Hyatt Regency,508,$35 off your stay,-35,rebate,2016-12-28,2017-01-03,Miami
+Hyatt Regency,508,%5 off your stay,-5,pct,2017-01-05,2017-01-07,Miami
+Hyatt Regency,508,$57 off your stay,-57,rebate,2017-01-09,2017-01-15,Miami
+Marriot,404,$70 off your stay,-70,rebate,2016-12-11,2016-12-25,Miami
+Marriot,404,$13 off your stay 3 nights or more,-13,rebate,2016-12-29,2017-01-04,Miami
+Marriot,404,$5 off your stay 3 nights or more,-5,rebate,2017-01-05,2017-01-10,Miami
+Marriot,404,$24 off your stay 3 nights or more,-24,rebate,2017-01-12,2017-01-28,Miami
+Delta,424,$98 off your stay,-98,rebate,2016-12-14,2016-12-27,Miami
+Delta,424,$82 off your stay,-82,rebate,2016-12-29,2017-01-11,Miami
+Best Western Hotel,519,%7 off your stay,-7,pct,2016-12-11,2016-12-21,Atlanta
+Best Western Hotel,519,%5 off your stay,-5,pct,2016-12-22,2017-01-05,Atlanta
+Best Western Hotel,519,$15 off your stay 3 nights or more,-15,rebate,2017-01-07,2017-01-22,Atlanta
+Drury Inn,406,%6 off your stay,-6,pct,2016-12-12,2016-12-19,Atlanta
+Drury Inn,406,$31 off your stay 3 nights or more,-31,rebate,2016-12-20,2017-01-20,Atlanta
+Quality Inn,559,$9 off your stay 3 nights or more,-9,rebate,2016-12-11,2016-12-21,Atlanta
+Quality Inn,559,$108 off your stay,-108,rebate,2016-12-23,2016-12-29,Atlanta
+Quality Inn,559,$70 off your stay,-70,rebate,2016-12-30,2017-01-14,Atlanta
+Park Plaza,537,$50 off your stay 3 nights or more,-50,rebate,2016-12-12,2016-12-26,Atlanta
+Park Plaza,537,$8 off your stay 3 nights or more,-8,rebate,2016-12-27,2017-01-09,Atlanta
+Park Plaza,537,%20 off your stay,-20,pct,2017-01-10,2017-01-28,Atlanta
+Hilton Garden Inn,579,$12 off your stay 3 nights or more,-12,rebate,2016-12-11,2017-01-03,Atlanta
+Hilton Garden Inn,579,$55 off your stay,-55,rebate,2017-01-06,2017-01-17,Atlanta
+Embassy Suites by Hilton,413,$13 off your stay,-13,rebate,2016-12-13,2016-12-18,Atlanta
+Embassy Suites by Hilton,413,$12 off your stay,-12,rebate,2016-12-19,2016-12-22,Atlanta
+Embassy Suites by Hilton,413,$11 off your stay,-11,rebate,2016-12-25,2016-12-31,Atlanta
+Embassy Suites by Hilton,413,$16 off your stay 3 nights or more,-16,rebate,2017-01-02,2017-01-18,Atlanta
+Hyatt Plaza,485,$11 off your stay,-11,rebate,2016-12-11,2016-12-25,Atlanta
+Hyatt Plaza,485,$11 off your stay,-11,rebate,2016-12-26,2017-01-01,Atlanta
+Hyatt Plaza,485,%7 off your stay,-7,pct,2017-01-03,2017-01-11,Atlanta
+Hyatt Plaza,485,%8 off your stay,-8,pct,2017-01-12,2017-02-04,Atlanta
+Holiday Inn,505,$69 off your stay 3 nights or more,-69,rebate,2016-12-11,2016-12-31,Atlanta
+Holiday Inn,505,$74 off your stay 3 nights or more,-74,rebate,2017-01-02,2017-01-10,Atlanta
+Holiday Inn,505,$103 off your stay 3 nights or more,-103,rebate,2017-01-11,2017-02-10,Atlanta
+Wyndham,573,$29 off your stay,-29,rebate,2016-12-13,2016-12-25,Atlanta
+Wyndham,573,$5 off your stay,-5,rebate,2016-12-29,2017-01-08,Atlanta
+Wyndham,573,$14 off your stay 3 nights or more,-14,rebate,2017-01-10,2017-02-02,Atlanta
+Ramada,600,%10 off your stay,-10,pct,2016-12-11,2017-01-02,Atlanta
+Ramada,600,$24 off your stay 3 nights or more,-24,rebate,2017-01-04,2017-01-12,Atlanta
+Days Inn,430,$7 off your stay,-7,rebate,2016-12-11,2016-12-21,Atlanta
+Days Inn,430,$25 off your stay 3 nights or more,-25,rebate,2016-12-22,2017-01-13,Atlanta
+La Quinta Inns,419,$13 off your stay 3 nights or more,-13,rebate,2016-12-11,2016-12-14,Atlanta
+La Quinta Inns,419,$73 off your stay,-73,rebate,2016-12-15,2016-12-23,Atlanta
+La Quinta Inns,419,%8 off your stay,-8,pct,2016-12-24,2016-12-26,Atlanta
+La Quinta Inns,419,$65 off your stay,-65,rebate,2016-12-27,2017-01-10,Atlanta
+La Quinta Inns,419,$23 off your stay 3 nights or more,-23,rebate,2017-01-11,2017-02-08,Atlanta
+Hyatt Regency,501,$23 off your stay,-23,rebate,2016-12-11,2016-12-25,Atlanta
+Hyatt Regency,501,$42 off your stay,-42,rebate,2016-12-26,2017-01-01,Atlanta
+Hyatt Regency,501,$18 off your stay,-18,rebate,2017-01-03,2017-01-05,Atlanta
+Hyatt Regency,501,$8 off your stay 3 nights or more,-8,rebate,2017-01-07,2017-01-21,Atlanta
+Marriot,453,$8 off your stay 3 nights or more,-8,rebate,2016-12-13,2016-12-23,Atlanta
+Marriot,453,%16 off your stay,-16,pct,2016-12-24,2017-01-14,Atlanta
+Delta,518,$38 off your stay,-38,rebate,2016-12-11,2016-12-19,Atlanta
+Delta,518,%5 off your stay,-5,pct,2016-12-20,2016-12-24,Atlanta
+Delta,518,$39 off your stay 3 nights or more,-39,rebate,2016-12-26,2017-01-12,Atlanta
+Best Western Hotel,493,%6 off your stay,-6,pct,2016-12-12,2016-12-26,Boston
+Best Western Hotel,493,$22 off your stay,-22,rebate,2016-12-28,2017-01-02,Boston
+Best Western Hotel,493,$36 off your stay 3 nights or more,-36,rebate,2017-01-06,2017-01-22,Boston
+Drury Inn,405,$63 off your stay,-63,rebate,2016-12-12,2016-12-25,Boston
+Drury Inn,405,$30 off your stay,-30,rebate,2016-12-27,2017-01-05,Boston
+Drury Inn,405,$38 off your stay 3 nights or more,-38,rebate,2017-01-07,2017-01-25,Boston
+Quality Inn,422,$17 off your stay 3 nights or more,-17,rebate,2016-12-12,2016-12-26,Boston
+Quality Inn,422,$27 off your stay,-27,rebate,2016-12-28,2017-01-01,Boston
+Quality Inn,422,%8 off your stay,-8,pct,2017-01-02,2017-01-16,Boston
+Park Plaza,419,$8 off your stay,-8,rebate,2016-12-13,2016-12-25,Boston
+Park Plaza,419,$52 off your stay,-52,rebate,2016-12-26,2017-01-06,Boston
+Park Plaza,419,$26 off your stay,-26,rebate,2017-01-08,2017-01-12,Boston
+Hilton Garden Inn,523,$29 off your stay,-29,rebate,2016-12-11,2016-12-16,Boston
+Hilton Garden Inn,523,$21 off your stay,-21,rebate,2016-12-17,2016-12-21,Boston
+Hilton Garden Inn,523,$20 off your stay,-20,rebate,2016-12-25,2016-12-30,Boston
+Hilton Garden Inn,523,$34 off your stay 3 nights or more,-34,rebate,2017-01-02,2017-01-25,Boston
+Embassy Suites by Hilton,542,$33 off your stay,-33,rebate,2016-12-12,2016-12-23,Boston
+Embassy Suites by Hilton,542,$23 off your stay,-23,rebate,2016-12-24,2017-01-08,Boston
+Embassy Suites by Hilton,542,$41 off your stay,-41,rebate,2017-01-09,2017-01-18,Boston
+Hyatt Plaza,450,%7 off your stay,-7,pct,2016-12-11,2017-01-03,Boston
+Holiday Inn,555,$14 off your stay,-14,rebate,2016-12-12,2016-12-13,Boston
+Holiday Inn,555,$28 off your stay,-28,rebate,2016-12-14,2016-12-25,Boston
+Holiday Inn,555,%13 off your stay,-13,pct,2016-12-28,2017-01-03,Boston
+Holiday Inn,555,%11 off your stay,-11,pct,2017-01-04,2017-01-14,Boston
+Wyndham,510,$83 off your stay,-83,rebate,2016-12-11,2016-12-17,Boston
+Wyndham,510,%6 off your stay,-6,pct,2016-12-18,2016-12-26,Boston
+Wyndham,510,%5 off your stay,-5,pct,2016-12-27,2017-01-13,Boston
+Ramada,405,$12 off your stay 3 nights or more,-12,rebate,2016-12-11,2016-12-26,Boston
+Ramada,405,$9 off your stay,-9,rebate,2016-12-31,2017-01-09,Boston
+Days Inn,542,$81 off your stay 3 nights or more,-81,rebate,2016-12-12,2016-12-25,Boston
+Days Inn,542,%5 off your stay,-5,pct,2016-12-26,2017-01-07,Boston
+Days Inn,542,%5 off your stay,-5,pct,2017-01-08,2017-01-10,Boston
+Days Inn,542,%5 off your stay,-5,pct,2017-01-11,2017-02-03,Boston
+La Quinta Inns,408,%5 off your stay,-5,pct,2016-12-11,2016-12-25,Boston
+La Quinta Inns,408,%8 off your stay,-8,pct,2016-12-28,2017-01-07,Boston
+La Quinta Inns,408,%8 off your stay,-8,pct,2017-01-08,2017-01-15,Boston
+Hyatt Regency,444,$13 off your stay,-13,rebate,2016-12-11,2016-12-16,Boston
+Hyatt Regency,444,$19 off your stay 3 nights or more,-19,rebate,2016-12-17,2016-12-28,Boston
+Hyatt Regency,444,$22 off your stay 3 nights or more,-22,rebate,2016-12-29,2017-01-12,Boston
+Marriot,442,$60 off your stay 3 nights or more,-60,rebate,2016-12-12,2017-01-04,Boston
+Marriot,442,$5 off your stay 3 nights or more,-5,rebate,2017-01-07,2017-01-26,Boston
+Delta,401,%9 off your stay,-9,pct,2016-12-11,2016-12-13,Boston
+Delta,401,$18 off your stay 3 nights or more,-18,rebate,2016-12-14,2016-12-29,Boston
+Delta,401,$15 off your stay,-15,rebate,2016-12-30,2017-01-07,Boston
+Delta,401,%10 off your stay,-10,pct,2017-01-12,2017-02-02,Boston
+Best Western Hotel,588,%11 off your stay,-11,pct,2016-12-11,2017-01-04,San Fransisco
+Best Western Hotel,588,%12 off your stay,-12,pct,2017-01-05,2017-01-28,San Fransisco
+Drury Inn,403,%5 off your stay,-5,pct,2016-12-13,2016-12-14,San Fransisco
+Drury Inn,403,$60 off your stay 3 nights or more,-60,rebate,2016-12-15,2016-12-22,San Fransisco
+Drury Inn,403,$55 off your stay 3 nights or more,-55,rebate,2016-12-24,2016-12-30,San Fransisco
+Drury Inn,403,$14 off your stay 3 nights or more,-14,rebate,2016-12-31,2017-01-31,San Fransisco
+Quality Inn,567,$6 off your stay,-6,rebate,2016-12-11,2016-12-17,San Fransisco
+Quality Inn,567,$22 off your stay,-22,rebate,2016-12-19,2016-12-28,San Fransisco
+Quality Inn,567,$14 off your stay 3 nights or more,-14,rebate,2016-12-29,2017-01-28,San Fransisco
+Park Plaza,593,$27 off your stay,-27,rebate,2016-12-11,2016-12-13,San Fransisco
+Park Plaza,593,$5 off your stay,-5,rebate,2016-12-15,2016-12-26,San Fransisco
+Park Plaza,593,$38 off your stay 3 nights or more,-38,rebate,2016-12-27,2017-01-10,San Fransisco
+Park Plaza,593,%6 off your stay,-6,pct,2017-01-12,2017-01-14,San Fransisco
+Hilton Garden Inn,574,%5 off your stay,-5,pct,2016-12-11,2016-12-16,San Fransisco
+Hilton Garden Inn,574,$68 off your stay 3 nights or more,-68,rebate,2016-12-17,2016-12-26,San Fransisco
+Hilton Garden Inn,574,%5 off your stay,-5,pct,2016-12-27,2016-12-31,San Fransisco
+Hilton Garden Inn,574,$28 off your stay 3 nights or more,-28,rebate,2017-01-04,2017-01-11,San Fransisco
+Embassy Suites by Hilton,519,$11 off your stay 3 nights or more,-11,rebate,2016-12-13,2017-01-12,San Fransisco
+Hyatt Plaza,429,%18 off your stay,-18,pct,2016-12-11,2016-12-15,San Fransisco
+Hyatt Plaza,429,$54 off your stay,-54,rebate,2016-12-18,2016-12-24,San Fransisco
+Hyatt Plaza,429,$39 off your stay 3 nights or more,-39,rebate,2016-12-25,2017-01-14,San Fransisco
+Holiday Inn,538,$24 off your stay,-24,rebate,2016-12-12,2016-12-22,San Fransisco
+Holiday Inn,538,$40 off your stay 3 nights or more,-40,rebate,2016-12-24,2017-01-13,San Fransisco
+Wyndham,411,$22 off your stay,-22,rebate,2016-12-13,2016-12-19,San Fransisco
+Wyndham,411,$28 off your stay,-28,rebate,2016-12-20,2016-12-30,San Fransisco
+Wyndham,411,%6 off your stay,-6,pct,2016-12-31,2017-01-10,San Fransisco
+Ramada,487,$8 off your stay,-8,rebate,2016-12-11,2016-12-22,San Fransisco
+Ramada,487,%21 off your stay,-21,pct,2016-12-24,2017-01-01,San Fransisco
+Ramada,487,$6 off your stay,-6,rebate,2017-01-02,2017-01-09,San Fransisco
+Ramada,487,%22 off your stay,-22,pct,2017-01-10,2017-01-25,San Fransisco
+Days Inn,564,$43 off your stay,-43,rebate,2016-12-11,2016-12-24,San Fransisco
+Days Inn,564,$65 off your stay,-65,rebate,2016-12-25,2017-01-03,San Fransisco
+Days Inn,564,$53 off your stay 3 nights or more,-53,rebate,2017-01-04,2017-01-24,San Fransisco
+La Quinta Inns,531,%11 off your stay,-11,pct,2016-12-11,2016-12-28,San Fransisco
+La Quinta Inns,531,%16 off your stay,-16,pct,2016-12-29,2016-12-30,San Fransisco
+La Quinta Inns,531,%17 off your stay,-17,pct,2016-12-31,2017-01-17,San Fransisco
+Hyatt Regency,487,$59 off your stay,-59,rebate,2016-12-11,2016-12-15,San Fransisco
+Hyatt Regency,487,$68 off your stay,-68,rebate,2016-12-17,2016-12-26,San Fransisco
+Hyatt Regency,487,%25 off your stay,-25,pct,2016-12-27,2017-01-05,San Fransisco
+Hyatt Regency,487,%28 off your stay,-28,pct,2017-01-07,2017-01-15,San Fransisco
+Marriot,511,%6 off your stay,-6,pct,2016-12-11,2016-12-28,San Fransisco
+Marriot,511,$11 off your stay 3 nights or more,-11,rebate,2017-01-01,2017-01-15,San Fransisco
+Delta,418,$40 off your stay,-40,rebate,2016-12-14,2016-12-24,San Fransisco
+Delta,418,%8 off your stay,-8,pct,2016-12-25,2017-01-01,San Fransisco
+Delta,418,$34 off your stay,-34,rebate,2017-01-03,2017-01-11,San Fransisco
+Best Western Hotel,530,$13 off your stay,-13,rebate,2016-12-11,2016-12-14,Phoenix
+Best Western Hotel,530,$42 off your stay 3 nights or more,-42,rebate,2016-12-15,2016-12-28,Phoenix
+Best Western Hotel,530,$48 off your stay 3 nights or more,-48,rebate,2016-12-29,2017-01-26,Phoenix
+Drury Inn,418,$63 off your stay,-63,rebate,2016-12-11,2016-12-13,Phoenix
+Drury Inn,418,$15 off your stay 3 nights or more,-15,rebate,2016-12-14,2017-01-12,Phoenix
+Quality Inn,420,%9 off your stay,-9,pct,2016-12-11,2016-12-21,Phoenix
+Quality Inn,420,$18 off your stay,-18,rebate,2016-12-22,2017-01-04,Phoenix
+Quality Inn,420,%8 off your stay,-8,pct,2017-01-06,2017-01-19,Phoenix
+Park Plaza,449,$17 off your stay,-17,rebate,2016-12-11,2016-12-22,Phoenix
+Park Plaza,449,$5 off your stay,-5,rebate,2016-12-23,2017-01-06,Phoenix
+Park Plaza,449,%17 off your stay,-17,pct,2017-01-10,2017-02-04,Phoenix
+Hilton Garden Inn,434,%6 off your stay,-6,pct,2016-12-11,2016-12-30,Phoenix
+Hilton Garden Inn,434,%5 off your stay,-5,pct,2017-01-01,2017-01-25,Phoenix
+Embassy Suites by Hilton,561,$50 off your stay,-50,rebate,2016-12-12,2016-12-14,Phoenix
+Embassy Suites by Hilton,561,$6 off your stay,-6,rebate,2016-12-15,2016-12-19,Phoenix
+Embassy Suites by Hilton,561,%13 off your stay,-13,pct,2016-12-20,2016-12-26,Phoenix
+Embassy Suites by Hilton,561,$24 off your stay 3 nights or more,-24,rebate,2016-12-28,2017-01-01,Phoenix
+Embassy Suites by Hilton,561,$11 off your stay,-11,rebate,2017-01-02,2017-01-08,Phoenix
+Embassy Suites by Hilton,561,$6 off your stay,-6,rebate,2017-01-10,2017-01-14,Phoenix
+Embassy Suites by Hilton,561,%7 off your stay,-7,pct,2017-01-15,2017-01-26,Phoenix
+Hyatt Plaza,413,$63 off your stay 3 nights or more,-63,rebate,2016-12-14,2016-12-23,Phoenix
+Hyatt Plaza,413,%7 off your stay,-7,pct,2016-12-24,2017-01-02,Phoenix
+Hyatt Plaza,413,%6 off your stay,-6,pct,2017-01-03,2017-01-04,Phoenix
+Hyatt Plaza,413,$94 off your stay,-94,rebate,2017-01-05,2017-01-11,Phoenix
+Hyatt Plaza,413,$36 off your stay,-36,rebate,2017-01-13,2017-01-26,Phoenix
+Holiday Inn,412,%6 off your stay,-6,pct,2016-12-13,2016-12-28,Phoenix
+Holiday Inn,412,%10 off your stay,-10,pct,2016-12-29,2017-01-14,Phoenix
+Wyndham,528,$59 off your stay 3 nights or more,-59,rebate,2016-12-11,2016-12-29,Phoenix
+Wyndham,528,$8 off your stay 3 nights or more,-8,rebate,2016-12-30,2017-01-17,Phoenix
+Ramada,514,%12 off your stay,-12,pct,2016-12-12,2016-12-28,Phoenix
+Ramada,514,$18 off your stay 3 nights or more,-18,rebate,2016-12-29,2017-01-10,Phoenix
+Days Inn,563,$60 off your stay 3 nights or more,-60,rebate,2016-12-12,2016-12-23,Phoenix
+Days Inn,563,%9 off your stay,-9,pct,2016-12-26,2017-01-14,Phoenix
+La Quinta Inns,442,$106 off your stay 3 nights or more,-106,rebate,2016-12-12,2017-01-05,Phoenix
+La Quinta Inns,442,%9 off your stay,-9,pct,2017-01-08,2017-01-23,Phoenix
+Hyatt Regency,406,$46 off your stay 3 nights or more,-46,rebate,2016-12-11,2016-12-23,Phoenix
+Hyatt Regency,406,$51 off your stay,-51,rebate,2016-12-26,2017-01-03,Phoenix
+Hyatt Regency,406,$47 off your stay 3 nights or more,-47,rebate,2017-01-05,2017-01-28,Phoenix
+Marriot,579,$98 off your stay,-98,rebate,2016-12-12,2016-12-27,Phoenix
+Marriot,579,%5 off your stay,-5,pct,2016-12-29,2017-01-09,Phoenix
+Marriot,579,%5 off your stay,-5,pct,2017-01-10,2017-01-31,Phoenix
+Delta,442,%8 off your stay,-8,pct,2016-12-12,2016-12-22,Phoenix
+Delta,442,$27 off your stay,-27,rebate,2016-12-23,2016-12-29,Phoenix
+Delta,442,%18 off your stay,-18,pct,2016-12-31,2017-01-03,Phoenix
+Delta,442,%19 off your stay,-19,pct,2017-01-04,2017-01-27,Phoenix
+Best Western Hotel,434,$93 off your stay 3 nights or more,-93,rebate,2016-12-12,2017-01-04,Detroit
+Best Western Hotel,434,$30 off your stay,-30,rebate,2017-01-05,2017-01-07,Detroit
+Best Western Hotel,434,%8 off your stay,-8,pct,2017-01-09,2017-01-30,Detroit
+Drury Inn,525,$13 off your stay,-13,rebate,2016-12-12,2016-12-26,Detroit
+Drury Inn,525,$56 off your stay 3 nights or more,-56,rebate,2016-12-27,2017-01-03,Detroit
+Drury Inn,525,$29 off your stay,-29,rebate,2017-01-04,2017-01-12,Detroit
+Quality Inn,447,$28 off your stay,-28,rebate,2016-12-12,2016-12-20,Detroit
+Quality Inn,447,%10 off your stay,-10,pct,2016-12-21,2017-01-12,Detroit
+Park Plaza,496,$35 off your stay 3 nights or more,-35,rebate,2016-12-12,2016-12-16,Detroit
+Park Plaza,496,$13 off your stay 3 nights or more,-13,rebate,2016-12-17,2016-12-22,Detroit
+Park Plaza,496,$28 off your stay 3 nights or more,-28,rebate,2016-12-24,2017-01-18,Detroit
+Hilton Garden Inn,550,%14 off your stay,-14,pct,2016-12-12,2016-12-25,Detroit
+Hilton Garden Inn,550,$39 off your stay,-39,rebate,2016-12-26,2017-01-09,Detroit
+Hilton Garden Inn,550,$19 off your stay,-19,rebate,2017-01-11,2017-01-14,Detroit
+Embassy Suites by Hilton,597,$24 off your stay 3 nights or more,-24,rebate,2016-12-11,2017-01-02,Detroit
+Embassy Suites by Hilton,597,$68 off your stay,-68,rebate,2017-01-04,2017-01-16,Detroit
+Hyatt Plaza,590,$11 off your stay,-11,rebate,2016-12-12,2016-12-27,Detroit
+Hyatt Plaza,590,$44 off your stay,-44,rebate,2016-12-28,2017-01-06,Detroit
+Hyatt Plaza,590,$42 off your stay,-42,rebate,2017-01-09,2017-01-18,Detroit
+Holiday Inn,531,$19 off your stay,-19,rebate,2016-12-11,2016-12-13,Detroit
+Holiday Inn,531,%17 off your stay,-17,pct,2016-12-14,2016-12-22,Detroit
+Holiday Inn,531,%19 off your stay,-19,pct,2016-12-23,2016-12-30,Detroit
+Holiday Inn,531,$7 off your stay,-7,rebate,2017-01-01,2017-01-04,Detroit
+Holiday Inn,531,%15 off your stay,-15,pct,2017-01-06,2017-01-29,Detroit
+Wyndham,465,$48 off your stay 3 nights or more,-48,rebate,2016-12-11,2016-12-21,Detroit
+Wyndham,465,%13 off your stay,-13,pct,2016-12-22,2016-12-31,Detroit
+Wyndham,465,$6 off your stay 3 nights or more,-6,rebate,2017-01-01,2017-01-10,Detroit
+Wyndham,465,%6 off your stay,-6,pct,2017-01-11,2017-02-02,Detroit
+Ramada,525,$61 off your stay,-61,rebate,2016-12-12,2016-12-20,Detroit
+Ramada,525,%5 off your stay,-5,pct,2016-12-21,2016-12-29,Detroit
+Ramada,525,$35 off your stay,-35,rebate,2016-12-31,2017-01-04,Detroit
+Ramada,525,$6 off your stay 3 nights or more,-6,rebate,2017-01-08,2017-01-12,Detroit
+Days Inn,402,%7 off your stay,-7,pct,2016-12-12,2016-12-26,Detroit
+Days Inn,402,%5 off your stay,-5,pct,2016-12-29,2017-01-18,Detroit
+La Quinta Inns,587,$53 off your stay 3 nights or more,-53,rebate,2016-12-11,2016-12-29,Detroit
+La Quinta Inns,587,$41 off your stay,-41,rebate,2016-12-31,2017-01-03,Detroit
+La Quinta Inns,587,$17 off your stay,-17,rebate,2017-01-05,2017-01-15,Detroit
+Hyatt Regency,408,%16 off your stay,-16,pct,2016-12-12,2016-12-19,Detroit
+Hyatt Regency,408,$88 off your stay 3 nights or more,-88,rebate,2016-12-20,2017-01-12,Detroit
+Marriot,592,$38 off your stay,-38,rebate,2016-12-11,2016-12-16,Detroit
+Marriot,592,$13 off your stay,-13,rebate,2016-12-17,2016-12-24,Detroit
+Marriot,592,%5 off your stay,-5,pct,2016-12-25,2017-01-08,Detroit
+Marriot,592,$22 off your stay 3 nights or more,-22,rebate,2017-01-10,2017-01-20,Detroit
+Delta,548,%8 off your stay,-8,pct,2016-12-11,2017-01-01,Detroit
+Delta,548,%22 off your stay,-22,pct,2017-01-02,2017-01-27,Detroit
+Best Western Hotel,525,%9 off your stay,-9,pct,2016-12-14,2016-12-29,Seattle
+Best Western Hotel,525,$27 off your stay,-27,rebate,2016-12-30,2017-01-10,Seattle
+Drury Inn,543,$12 off your stay,-12,rebate,2016-12-11,2016-12-21,Seattle
+Drury Inn,543,$15 off your stay,-15,rebate,2016-12-22,2016-12-31,Seattle
+Drury Inn,543,$17 off your stay 3 nights or more,-17,rebate,2017-01-02,2017-01-16,Seattle
+Quality Inn,469,$81 off your stay 3 nights or more,-81,rebate,2016-12-12,2016-12-25,Seattle
+Quality Inn,469,$12 off your stay 3 nights or more,-12,rebate,2016-12-26,2017-01-13,Seattle
+Park Plaza,440,%17 off your stay,-17,pct,2016-12-11,2016-12-16,Seattle
+Park Plaza,440,$20 off your stay 3 nights or more,-20,rebate,2016-12-18,2017-01-16,Seattle
+Hilton Garden Inn,471,$18 off your stay,-18,rebate,2016-12-11,2016-12-26,Seattle
+Hilton Garden Inn,471,$37 off your stay,-37,rebate,2016-12-29,2016-12-30,Seattle
+Hilton Garden Inn,471,$45 off your stay 3 nights or more,-45,rebate,2016-12-31,2017-01-10,Seattle
+Hilton Garden Inn,471,%16 off your stay,-16,pct,2017-01-12,2017-01-31,Seattle
+Embassy Suites by Hilton,418,$17 off your stay,-17,rebate,2016-12-11,2016-12-24,Seattle
+Embassy Suites by Hilton,418,%15 off your stay,-15,pct,2016-12-25,2017-01-13,Seattle
+Hyatt Plaza,431,$25 off your stay,-25,rebate,2016-12-11,2016-12-12,Seattle
+Hyatt Plaza,431,$30 off your stay 3 nights or more,-30,rebate,2016-12-13,2016-12-25,Seattle
+Hyatt Plaza,431,%7 off your stay,-7,pct,2016-12-26,2017-01-19,Seattle
+Holiday Inn,460,$49 off your stay 3 nights or more,-49,rebate,2016-12-11,2017-01-01,Seattle
+Holiday Inn,460,$24 off your stay,-24,rebate,2017-01-03,2017-01-05,Seattle
+Holiday Inn,460,$63 off your stay,-63,rebate,2017-01-07,2017-01-14,Seattle
+Wyndham,474,$28 off your stay 3 nights or more,-28,rebate,2016-12-11,2016-12-22,Seattle
+Wyndham,474,$35 off your stay,-35,rebate,2016-12-23,2017-01-05,Seattle
+Wyndham,474,$41 off your stay,-41,rebate,2017-01-06,2017-01-21,Seattle
+Ramada,403,%7 off your stay,-7,pct,2016-12-12,2016-12-29,Seattle
+Ramada,403,$8 off your stay,-8,rebate,2016-12-30,2017-01-12,Seattle
+Days Inn,497,$58 off your stay,-58,rebate,2016-12-13,2016-12-26,Seattle
+Days Inn,497,$69 off your stay,-69,rebate,2016-12-28,2017-01-12,Seattle
+La Quinta Inns,587,%12 off your stay,-12,pct,2016-12-12,2017-01-03,Seattle
+La Quinta Inns,587,%11 off your stay,-11,pct,2017-01-05,2017-01-20,Seattle
+Hyatt Regency,546,$7 off your stay 3 nights or more,-7,rebate,2016-12-12,2016-12-16,Seattle
+Hyatt Regency,546,%8 off your stay,-8,pct,2016-12-19,2017-01-13,Seattle
+Marriot,401,%8 off your stay,-8,pct,2016-12-11,2016-12-29,Seattle
+Marriot,401,$16 off your stay,-16,rebate,2016-12-30,2017-01-04,Seattle
+Marriot,401,%8 off your stay,-8,pct,2017-01-08,2017-01-22,Seattle
+Delta,559,%8 off your stay,-8,pct,2016-12-11,2016-12-25,Seattle
+Delta,559,%10 off your stay,-10,pct,2016-12-26,2017-01-02,Seattle
+Delta,559,$56 off your stay,-56,rebate,2017-01-03,2017-01-08,Seattle
+Delta,559,%18 off your stay,-18,pct,2017-01-10,2017-01-24,Seattle
+Best Western Hotel,568,$15 off your stay,-15,rebate,2016-12-16,2016-12-23,Minneapolis
+Best Western Hotel,568,$29 off your stay 3 nights or more,-29,rebate,2016-12-24,2017-01-20,Minneapolis
+Drury Inn,486,$75 off your stay,-75,rebate,2016-12-16,2016-12-25,Minneapolis
+Drury Inn,486,%6 off your stay,-6,pct,2016-12-27,2016-12-29,Minneapolis
+Drury Inn,486,%5 off your stay,-5,pct,2016-12-30,2017-01-07,Minneapolis
+Drury Inn,486,$20 off your stay,-20,rebate,2017-01-08,2017-01-20,Minneapolis
+Quality Inn,534,$28 off your stay,-28,rebate,2016-12-12,2016-12-19,Minneapolis
+Quality Inn,534,%11 off your stay,-11,pct,2016-12-22,2017-01-01,Minneapolis
+Quality Inn,534,$34 off your stay 3 nights or more,-34,rebate,2017-01-02,2017-01-06,Minneapolis
+Quality Inn,534,%16 off your stay,-16,pct,2017-01-07,2017-01-09,Minneapolis
+Quality Inn,534,%5 off your stay,-5,pct,2017-01-12,2017-01-29,Minneapolis
+Park Plaza,477,$63 off your stay 3 nights or more,-63,rebate,2016-12-11,2016-12-24,Minneapolis
+Park Plaza,477,$55 off your stay 3 nights or more,-55,rebate,2016-12-25,2017-01-08,Minneapolis
+Park Plaza,477,$40 off your stay 3 nights or more,-40,rebate,2017-01-09,2017-01-20,Minneapolis
+Hilton Garden Inn,490,%13 off your stay,-13,pct,2016-12-15,2016-12-24,Minneapolis
+Hilton Garden Inn,490,%13 off your stay,-13,pct,2016-12-25,2017-01-02,Minneapolis
+Hilton Garden Inn,490,$8 off your stay 3 nights or more,-8,rebate,2017-01-07,2017-01-16,Minneapolis
+Embassy Suites by Hilton,499,%14 off your stay,-14,pct,2016-12-14,2016-12-19,Minneapolis
+Embassy Suites by Hilton,499,%13 off your stay,-13,pct,2016-12-22,2017-01-02,Minneapolis
+Embassy Suites by Hilton,499,%13 off your stay,-13,pct,2017-01-05,2017-01-12,Minneapolis
+Hyatt Plaza,446,%6 off your stay,-6,pct,2016-12-11,2016-12-27,Minneapolis
+Hyatt Plaza,446,$8 off your stay 3 nights or more,-8,rebate,2016-12-28,2017-01-24,Minneapolis
+Holiday Inn,471,$37 off your stay 3 nights or more,-37,rebate,2016-12-11,2016-12-15,Minneapolis
+Holiday Inn,471,$38 off your stay 3 nights or more,-38,rebate,2016-12-16,2017-01-12,Minneapolis
+Wyndham,549,$14 off your stay 3 nights or more,-14,rebate,2016-12-11,2016-12-14,Minneapolis
+Wyndham,549,%8 off your stay,-8,pct,2016-12-15,2016-12-25,Minneapolis
+Wyndham,549,$5 off your stay 3 nights or more,-5,rebate,2016-12-28,2017-01-15,Minneapolis
+Ramada,590,$18 off your stay 3 nights or more,-18,rebate,2016-12-12,2016-12-28,Minneapolis
+Ramada,590,%13 off your stay,-13,pct,2016-12-30,2017-01-14,Minneapolis
+Days Inn,445,$12 off your stay,-12,rebate,2016-12-13,2016-12-27,Minneapolis
+Days Inn,445,%23 off your stay,-23,pct,2016-12-28,2017-01-17,Minneapolis
+La Quinta Inns,402,$38 off your stay 3 nights or more,-38,rebate,2016-12-13,2017-01-03,Minneapolis
+La Quinta Inns,402,$76 off your stay,-76,rebate,2017-01-04,2017-01-15,Minneapolis
+Hyatt Regency,533,$5 off your stay 3 nights or more,-5,rebate,2016-12-11,2016-12-30,Minneapolis
+Hyatt Regency,533,$16 off your stay 3 nights or more,-16,rebate,2017-01-02,2017-01-21,Minneapolis
+Marriot,426,$46 off your stay,-46,rebate,2016-12-11,2016-12-24,Minneapolis
+Marriot,426,$70 off your stay 3 nights or more,-70,rebate,2016-12-26,2017-01-25,Minneapolis
+Delta,563,$35 off your stay,-35,rebate,2016-12-11,2016-12-14,Minneapolis
+Delta,563,$9 off your stay 3 nights or more,-9,rebate,2016-12-16,2016-12-19,Minneapolis
+Delta,563,$44 off your stay,-44,rebate,2016-12-21,2016-12-28,Minneapolis
+Delta,563,%5 off your stay,-5,pct,2016-12-29,2017-01-21,Minneapolis
+Best Western Hotel,273,%5 off your stay,-5,pct,2016-12-11,2016-12-18,San Diego
+Best Western Hotel,273,$38 off your stay 3 nights or more,-38,rebate,2016-12-19,2017-01-06,San Diego
+Best Western Hotel,273,$23 off your stay 3 nights or more,-23,rebate,2017-01-09,2017-02-09,San Diego
+Drury Inn,276,%5 off your stay,-5,pct,2016-12-11,2016-12-20,San Diego
+Drury Inn,276,%8 off your stay,-8,pct,2016-12-21,2017-01-07,San Diego
+Drury Inn,276,$58 off your stay 3 nights or more,-58,rebate,2017-01-08,2017-02-07,San Diego
+Quality Inn,343,$28 off your stay,-28,rebate,2016-12-13,2016-12-23,San Diego
+Quality Inn,343,%7 off your stay,-7,pct,2016-12-24,2017-01-12,San Diego
+Park Plaza,353,%5 off your stay,-5,pct,2016-12-12,2017-01-03,San Diego
+Park Plaza,353,%5 off your stay,-5,pct,2017-01-04,2017-01-09,San Diego
+Park Plaza,353,%5 off your stay,-5,pct,2017-01-10,2017-01-24,San Diego
+Hilton Garden Inn,316,%6 off your stay,-6,pct,2016-12-11,2016-12-17,San Diego
+Hilton Garden Inn,316,$40 off your stay,-40,rebate,2016-12-18,2016-12-30,San Diego
+Hilton Garden Inn,316,%6 off your stay,-6,pct,2016-12-31,2017-01-18,San Diego
+Embassy Suites by Hilton,246,$12 off your stay 3 nights or more,-12,rebate,2016-12-12,2016-12-26,San Diego
+Embassy Suites by Hilton,246,$36 off your stay,-36,rebate,2016-12-27,2017-01-01,San Diego
+Embassy Suites by Hilton,246,$47 off your stay,-47,rebate,2017-01-02,2017-01-06,San Diego
+Embassy Suites by Hilton,246,$64 off your stay,-64,rebate,2017-01-07,2017-01-21,San Diego
+Hyatt Plaza,247,%5 off your stay,-5,pct,2016-12-11,2016-12-26,San Diego
+Hyatt Plaza,247,$5 off your stay 3 nights or more,-5,rebate,2016-12-28,2017-01-20,San Diego
+Holiday Inn,264,$25 off your stay 3 nights or more,-25,rebate,2016-12-11,2016-12-17,San Diego
+Holiday Inn,264,%10 off your stay,-10,pct,2016-12-18,2016-12-24,San Diego
+Holiday Inn,264,$18 off your stay,-18,rebate,2016-12-25,2016-12-31,San Diego
+Holiday Inn,264,$71 off your stay,-71,rebate,2017-01-06,2017-01-19,San Diego
+Wyndham,264,%5 off your stay,-5,pct,2016-12-11,2016-12-28,San Diego
+Wyndham,264,$28 off your stay,-28,rebate,2016-12-29,2017-01-12,San Diego
+Ramada,311,$76 off your stay 3 nights or more,-76,rebate,2016-12-11,2017-01-07,San Diego
+Ramada,311,$94 off your stay 3 nights or more,-94,rebate,2017-01-10,2017-01-18,San Diego
+Best Western Hotel,243,$89 off your stay 3 nights or more,-89,rebate,2016-12-11,2017-01-07,Tampa
+Best Western Hotel,243,$71 off your stay,-71,rebate,2017-01-08,2017-01-12,Tampa
+Drury Inn,326,%10 off your stay,-10,pct,2016-12-11,2016-12-17,Tampa
+Drury Inn,326,$12 off your stay 3 nights or more,-12,rebate,2016-12-18,2017-01-01,Tampa
+Drury Inn,326,$10 off your stay 3 nights or more,-10,rebate,2017-01-02,2017-01-05,Tampa
+Drury Inn,326,%9 off your stay,-9,pct,2017-01-06,2017-01-31,Tampa
+Quality Inn,277,%24 off your stay,-24,pct,2016-12-13,2016-12-22,Tampa
+Quality Inn,277,$6 off your stay,-6,rebate,2016-12-25,2017-01-03,Tampa
+Quality Inn,277,%27 off your stay,-27,pct,2017-01-04,2017-01-07,Tampa
+Quality Inn,277,%10 off your stay,-10,pct,2017-01-10,2017-02-03,Tampa
+Park Plaza,331,$37 off your stay 3 nights or more,-37,rebate,2016-12-12,2016-12-27,Tampa
+Park Plaza,331,$10 off your stay,-10,rebate,2016-12-28,2017-01-04,Tampa
+Park Plaza,331,%14 off your stay,-14,pct,2017-01-06,2017-01-07,Tampa
+Park Plaza,331,$61 off your stay 3 nights or more,-61,rebate,2017-01-09,2017-01-23,Tampa
+Hilton Garden Inn,274,%5 off your stay,-5,pct,2016-12-11,2016-12-25,Tampa
+Hilton Garden Inn,274,$12 off your stay 3 nights or more,-12,rebate,2016-12-26,2017-01-09,Tampa
+Hilton Garden Inn,274,$14 off your stay 3 nights or more,-14,rebate,2017-01-10,2017-01-20,Tampa
+Embassy Suites by Hilton,348,$5 off your stay 3 nights or more,-5,rebate,2016-12-12,2017-01-10,Tampa
+Hyatt Plaza,306,$35 off your stay,-35,rebate,2016-12-11,2016-12-26,Tampa
+Hyatt Plaza,306,$82 off your stay,-82,rebate,2016-12-28,2017-01-05,Tampa
+Hyatt Plaza,306,%12 off your stay,-12,pct,2017-01-07,2017-01-26,Tampa
+Holiday Inn,241,%7 off your stay,-7,pct,2016-12-14,2016-12-26,Tampa
+Holiday Inn,241,%6 off your stay,-6,pct,2016-12-27,2017-01-15,Tampa
+Wyndham,354,$9 off your stay 3 nights or more,-9,rebate,2016-12-11,2017-01-05,Tampa
+Wyndham,354,%8 off your stay,-8,pct,2017-01-06,2017-01-20,Tampa
+Ramada,286,%8 off your stay,-8,pct,2016-12-12,2016-12-31,Tampa
+Ramada,286,%5 off your stay,-5,pct,2017-01-03,2017-01-08,Tampa
+Ramada,286,%8 off your stay,-8,pct,2017-01-10,2017-01-18,Tampa
+Best Western Hotel,251,$5 off your stay 3 nights or more,-5,rebate,2016-12-12,2017-01-03,Denver
+Best Western Hotel,251,%5 off your stay,-5,pct,2017-01-05,2017-01-29,Denver
+Drury Inn,297,$37 off your stay,-37,rebate,2016-12-11,2016-12-25,Denver
+Drury Inn,297,$5 off your stay,-5,rebate,2016-12-26,2017-01-01,Denver
+Drury Inn,297,%13 off your stay,-13,pct,2017-01-05,2017-01-13,Denver
+Quality Inn,292,$40 off your stay,-40,rebate,2016-12-11,2016-12-24,Denver
+Quality Inn,292,$77 off your stay,-77,rebate,2016-12-25,2017-01-01,Denver
+Quality Inn,292,$48 off your stay,-48,rebate,2017-01-02,2017-01-06,Denver
+Quality Inn,292,$66 off your stay,-66,rebate,2017-01-08,2017-01-11,Denver
+Quality Inn,292,$40 off your stay 3 nights or more,-40,rebate,2017-01-12,2017-01-31,Denver
+Park Plaza,360,$73 off your stay 3 nights or more,-73,rebate,2016-12-11,2016-12-26,Denver
+Park Plaza,360,$39 off your stay 3 nights or more,-39,rebate,2016-12-27,2017-01-20,Denver
+Hilton Garden Inn,347,%6 off your stay,-6,pct,2016-12-11,2016-12-28,Denver
+Hilton Garden Inn,347,%5 off your stay,-5,pct,2016-12-29,2017-01-22,Denver
+Embassy Suites by Hilton,241,$35 off your stay,-35,rebate,2016-12-11,2016-12-16,Denver
+Embassy Suites by Hilton,241,%9 off your stay,-9,pct,2016-12-17,2016-12-23,Denver
+Embassy Suites by Hilton,241,$110 off your stay,-110,rebate,2016-12-24,2016-12-29,Denver
+Embassy Suites by Hilton,241,$82 off your stay 3 nights or more,-82,rebate,2016-12-31,2017-01-28,Denver
+Hyatt Plaza,294,%11 off your stay,-11,pct,2016-12-11,2016-12-13,Denver
+Hyatt Plaza,294,$68 off your stay 3 nights or more,-68,rebate,2016-12-14,2016-12-31,Denver
+Hyatt Plaza,294,%12 off your stay,-12,pct,2017-01-02,2017-01-06,Denver
+Hyatt Plaza,294,$65 off your stay 3 nights or more,-65,rebate,2017-01-07,2017-01-28,Denver
+Holiday Inn,274,$17 off your stay 3 nights or more,-17,rebate,2016-12-12,2017-01-08,Denver
+Holiday Inn,274,$31 off your stay,-31,rebate,2017-01-09,2017-01-17,Denver
+Wyndham,294,%12 off your stay,-12,pct,2016-12-12,2016-12-31,Denver
+Wyndham,294,%8 off your stay,-8,pct,2017-01-02,2017-01-15,Denver
+Ramada,292,$5 off your stay 3 nights or more,-5,rebate,2016-12-12,2016-12-21,Denver
+Ramada,292,$12 off your stay 3 nights or more,-12,rebate,2016-12-22,2017-01-16,Denver
+Best Western Hotel,317,$27 off your stay,-27,rebate,2016-12-12,2016-12-17,St. Louis
+Best Western Hotel,317,$34 off your stay,-34,rebate,2016-12-18,2016-12-19,St. Louis
+Best Western Hotel,317,$34 off your stay,-34,rebate,2016-12-21,2016-12-29,St. Louis
+Best Western Hotel,317,$52 off your stay 3 nights or more,-52,rebate,2016-12-30,2017-01-29,St. Louis
+Drury Inn,295,$34 off your stay,-34,rebate,2016-12-11,2016-12-17,St. Louis
+Drury Inn,295,%10 off your stay,-10,pct,2016-12-19,2017-01-08,St. Louis
+Drury Inn,295,%15 off your stay,-15,pct,2017-01-11,2017-02-03,St. Louis
+Quality Inn,341,%8 off your stay,-8,pct,2016-12-14,2016-12-19,St. Louis
+Quality Inn,341,$67 off your stay,-67,rebate,2016-12-20,2016-12-25,St. Louis
+Quality Inn,341,%10 off your stay,-10,pct,2016-12-26,2017-01-02,St. Louis
+Quality Inn,341,%6 off your stay,-6,pct,2017-01-03,2017-01-13,St. Louis
+Park Plaza,317,%6 off your stay,-6,pct,2016-12-11,2016-12-18,St. Louis
+Park Plaza,317,$10 off your stay,-10,rebate,2016-12-19,2016-12-24,St. Louis
+Park Plaza,317,%5 off your stay,-5,pct,2016-12-26,2017-01-07,St. Louis
+Park Plaza,317,$20 off your stay,-20,rebate,2017-01-09,2017-01-20,St. Louis
+Hilton Garden Inn,302,$40 off your stay,-40,rebate,2016-12-11,2016-12-18,St. Louis
+Hilton Garden Inn,302,%14 off your stay,-14,pct,2016-12-19,2017-01-10,St. Louis
+Hilton Garden Inn,302,$38 off your stay 3 nights or more,-38,rebate,2017-01-11,2017-01-20,St. Louis
+Embassy Suites by Hilton,318,%21 off your stay,-21,pct,2016-12-11,2016-12-19,St. Louis
+Embassy Suites by Hilton,318,$34 off your stay 3 nights or more,-34,rebate,2016-12-22,2017-01-16,St. Louis
+Hyatt Plaza,242,$58 off your stay 3 nights or more,-58,rebate,2016-12-13,2017-01-09,St. Louis
+Hyatt Plaza,242,%25 off your stay,-25,pct,2017-01-10,2017-01-13,St. Louis
+Holiday Inn,346,%11 off your stay,-11,pct,2016-12-11,2016-12-18,St. Louis
+Holiday Inn,346,%7 off your stay,-7,pct,2016-12-19,2017-01-12,St. Louis
+Wyndham,313,$61 off your stay,-61,rebate,2016-12-11,2016-12-13,St. Louis
+Wyndham,313,%7 off your stay,-7,pct,2016-12-15,2016-12-23,St. Louis
+Wyndham,313,$59 off your stay,-59,rebate,2016-12-25,2016-12-31,St. Louis
+Wyndham,313,$57 off your stay 3 nights or more,-57,rebate,2017-01-02,2017-01-12,St. Louis
+Wyndham,313,$68 off your stay 3 nights or more,-68,rebate,2017-01-13,2017-02-04,St. Louis
+Ramada,357,$60 off your stay,-60,rebate,2016-12-11,2016-12-26,St. Louis
+Ramada,357,$13 off your stay,-13,rebate,2016-12-28,2016-12-29,St. Louis
+Ramada,357,$10 off your stay,-10,rebate,2016-12-30,2017-01-04,St. Louis
+Ramada,357,%6 off your stay,-6,pct,2017-01-05,2017-01-24,St. Louis
+Best Western Hotel,347,%6 off your stay,-6,pct,2016-12-12,2016-12-25,Baltimore
+Best Western Hotel,347,%5 off your stay,-5,pct,2016-12-26,2016-12-28,Baltimore
+Best Western Hotel,347,$99 off your stay,-99,rebate,2016-12-31,2017-01-13,Baltimore
+Drury Inn,262,$29 off your stay 3 nights or more,-29,rebate,2016-12-11,2016-12-18,Baltimore
+Drury Inn,262,$20 off your stay,-20,rebate,2016-12-20,2016-12-21,Baltimore
+Drury Inn,262,$20 off your stay 3 nights or more,-20,rebate,2016-12-23,2017-01-10,Baltimore
+Drury Inn,262,$29 off your stay,-29,rebate,2017-01-12,2017-01-21,Baltimore
+Quality Inn,358,$22 off your stay,-22,rebate,2016-12-12,2016-12-14,Baltimore
+Quality Inn,358,$20 off your stay 3 nights or more,-20,rebate,2016-12-15,2016-12-28,Baltimore
+Quality Inn,358,$8 off your stay,-8,rebate,2016-12-29,2017-01-01,Baltimore
+Quality Inn,358,$14 off your stay,-14,rebate,2017-01-04,2017-01-16,Baltimore
+Park Plaza,265,$68 off your stay,-68,rebate,2016-12-11,2016-12-20,Baltimore
+Park Plaza,265,%22 off your stay,-22,pct,2016-12-21,2016-12-28,Baltimore
+Park Plaza,265,$66 off your stay,-66,rebate,2016-12-31,2017-01-15,Baltimore
+Hilton Garden Inn,266,$19 off your stay,-19,rebate,2016-12-11,2016-12-16,Baltimore
+Hilton Garden Inn,266,%10 off your stay,-10,pct,2016-12-18,2017-01-11,Baltimore
+Embassy Suites by Hilton,258,$71 off your stay 3 nights or more,-71,rebate,2016-12-13,2017-01-09,Baltimore
+Embassy Suites by Hilton,258,$30 off your stay,-30,rebate,2017-01-10,2017-01-16,Baltimore
+Hyatt Plaza,294,$23 off your stay 3 nights or more,-23,rebate,2016-12-13,2017-01-12,Baltimore
+Holiday Inn,275,$27 off your stay,-27,rebate,2016-12-11,2016-12-22,Baltimore
+Holiday Inn,275,%9 off your stay,-9,pct,2016-12-23,2017-01-06,Baltimore
+Holiday Inn,275,%17 off your stay,-17,pct,2017-01-07,2017-01-18,Baltimore
+Wyndham,359,%12 off your stay,-12,pct,2016-12-11,2016-12-31,Baltimore
+Wyndham,359,%16 off your stay,-16,pct,2017-01-01,2017-01-04,Baltimore
+Wyndham,359,%17 off your stay,-17,pct,2017-01-05,2017-01-21,Baltimore
+Ramada,345,%17 off your stay,-17,pct,2016-12-11,2016-12-19,Baltimore
+Ramada,345,$35 off your stay,-35,rebate,2016-12-20,2016-12-26,Baltimore
+Ramada,345,%18 off your stay,-18,pct,2016-12-30,2016-12-31,Baltimore
+Ramada,345,%13 off your stay,-13,pct,2017-01-02,2017-01-05,Baltimore
+Ramada,345,$36 off your stay 3 nights or more,-36,rebate,2017-01-07,2017-02-06,Baltimore
+Best Western Hotel,267,%7 off your stay,-7,pct,2016-12-12,2016-12-25,Charlotte
+Best Western Hotel,267,$24 off your stay,-24,rebate,2016-12-26,2016-12-29,Charlotte
+Best Western Hotel,267,$13 off your stay 3 nights or more,-13,rebate,2017-01-02,2017-01-20,Charlotte
+Drury Inn,303,$5 off your stay 3 nights or more,-5,rebate,2016-12-11,2016-12-18,Charlotte
+Drury Inn,303,$11 off your stay,-11,rebate,2016-12-20,2017-01-01,Charlotte
+Drury Inn,303,$13 off your stay 3 nights or more,-13,rebate,2017-01-02,2017-01-05,Charlotte
+Drury Inn,303,$92 off your stay 3 nights or more,-92,rebate,2017-01-06,2017-01-18,Charlotte
+Quality Inn,356,%13 off your stay,-13,pct,2016-12-11,2017-01-01,Charlotte
+Quality Inn,356,$10 off your stay 3 nights or more,-10,rebate,2017-01-02,2017-01-18,Charlotte
+Park Plaza,255,%10 off your stay,-10,pct,2016-12-11,2016-12-22,Charlotte
+Park Plaza,255,%15 off your stay,-15,pct,2016-12-23,2017-01-01,Charlotte
+Park Plaza,255,%14 off your stay,-14,pct,2017-01-03,2017-01-17,Charlotte
+Hilton Garden Inn,337,$13 off your stay,-13,rebate,2016-12-11,2016-12-21,Charlotte
+Hilton Garden Inn,337,%17 off your stay,-17,pct,2016-12-22,2017-01-16,Charlotte
+Embassy Suites by Hilton,267,$70 off your stay,-70,rebate,2016-12-11,2016-12-19,Charlotte
+Embassy Suites by Hilton,267,%19 off your stay,-19,pct,2016-12-20,2016-12-22,Charlotte
+Embassy Suites by Hilton,267,$41 off your stay 3 nights or more,-41,rebate,2016-12-25,2016-12-30,Charlotte
+Embassy Suites by Hilton,267,%18 off your stay,-18,pct,2017-01-01,2017-01-09,Charlotte
+Embassy Suites by Hilton,267,$68 off your stay 3 nights or more,-68,rebate,2017-01-10,2017-01-16,Charlotte
+Hyatt Plaza,290,$68 off your stay,-68,rebate,2016-12-11,2016-12-20,Charlotte
+Hyatt Plaza,290,%15 off your stay,-15,pct,2016-12-23,2017-01-04,Charlotte
+Hyatt Plaza,290,%11 off your stay,-11,pct,2017-01-05,2017-01-30,Charlotte
+Holiday Inn,345,$24 off your stay,-24,rebate,2016-12-11,2016-12-22,Charlotte
+Holiday Inn,345,%29 off your stay,-29,pct,2016-12-26,2017-01-10,Charlotte
+Holiday Inn,345,$17 off your stay,-17,rebate,2017-01-11,2017-01-18,Charlotte
+Wyndham,295,$26 off your stay 3 nights or more,-26,rebate,2016-12-12,2017-01-01,Charlotte
+Wyndham,295,$66 off your stay,-66,rebate,2017-01-02,2017-01-05,Charlotte
+Wyndham,295,%12 off your stay,-12,pct,2017-01-06,2017-01-23,Charlotte
+Ramada,306,$18 off your stay,-18,rebate,2016-12-11,2016-12-15,Charlotte
+Ramada,306,%5 off your stay,-5,pct,2016-12-16,2017-01-08,Charlotte
+Ramada,306,$16 off your stay,-16,rebate,2017-01-10,2017-01-17,Charlotte
+Best Western Hotel,335,$7 off your stay,-7,rebate,2016-12-11,2016-12-13,Portland
+Best Western Hotel,335,$22 off your stay,-22,rebate,2016-12-14,2016-12-17,Portland
+Best Western Hotel,335,$32 off your stay,-32,rebate,2016-12-18,2016-12-28,Portland
+Best Western Hotel,335,$9 off your stay 3 nights or more,-9,rebate,2016-12-29,2017-01-03,Portland
+Best Western Hotel,335,$21 off your stay,-21,rebate,2017-01-05,2017-01-14,Portland
+Drury Inn,276,$11 off your stay,-11,rebate,2016-12-11,2016-12-19,Portland
+Drury Inn,276,$48 off your stay,-48,rebate,2016-12-20,2016-12-21,Portland
+Drury Inn,276,$49 off your stay 3 nights or more,-49,rebate,2016-12-24,2017-01-10,Portland
+Quality Inn,312,$17 off your stay,-17,rebate,2016-12-11,2016-12-21,Portland
+Quality Inn,312,$10 off your stay 3 nights or more,-10,rebate,2016-12-22,2017-01-03,Portland
+Quality Inn,312,$9 off your stay,-9,rebate,2017-01-05,2017-01-19,Portland
+Park Plaza,352,%5 off your stay,-5,pct,2016-12-11,2016-12-12,Portland
+Park Plaza,352,$30 off your stay,-30,rebate,2016-12-13,2016-12-26,Portland
+Park Plaza,352,$33 off your stay 3 nights or more,-33,rebate,2016-12-28,2017-01-10,Portland
+Park Plaza,352,%7 off your stay,-7,pct,2017-01-11,2017-01-12,Portland
+Park Plaza,352,$39 off your stay 3 nights or more,-39,rebate,2017-01-13,2017-01-30,Portland
+Hilton Garden Inn,337,$36 off your stay,-36,rebate,2016-12-13,2016-12-25,Portland
+Hilton Garden Inn,337,$48 off your stay 3 nights or more,-48,rebate,2016-12-27,2017-01-21,Portland
+Embassy Suites by Hilton,299,$7 off your stay,-7,rebate,2016-12-11,2016-12-18,Portland
+Embassy Suites by Hilton,299,$13 off your stay,-13,rebate,2016-12-19,2017-01-03,Portland
+Embassy Suites by Hilton,299,$89 off your stay 3 nights or more,-89,rebate,2017-01-05,2017-02-02,Portland
+Hyatt Plaza,279,%5 off your stay,-5,pct,2016-12-12,2016-12-15,Portland
+Hyatt Plaza,279,$72 off your stay,-72,rebate,2016-12-16,2016-12-20,Portland
+Hyatt Plaza,279,%13 off your stay,-13,pct,2016-12-21,2017-01-05,Portland
+Hyatt Plaza,279,%10 off your stay,-10,pct,2017-01-09,2017-01-28,Portland
+Holiday Inn,331,$15 off your stay 3 nights or more,-15,rebate,2016-12-12,2017-01-12,Portland
+Wyndham,325,%9 off your stay,-9,pct,2016-12-12,2016-12-30,Portland
+Wyndham,325,$19 off your stay 3 nights or more,-19,rebate,2017-01-01,2017-01-26,Portland
+Ramada,289,$10 off your stay,-10,rebate,2016-12-11,2016-12-14,Portland
+Ramada,289,$15 off your stay,-15,rebate,2016-12-16,2016-12-31,Portland
+Ramada,289,$19 off your stay,-19,rebate,2017-01-01,2017-01-06,Portland
+Ramada,289,$20 off your stay,-20,rebate,2017-01-07,2017-01-17,Portland
+Best Western Hotel,285,$50 off your stay,-50,rebate,2016-12-11,2016-12-22,Orlando
+Best Western Hotel,285,%19 off your stay,-19,pct,2016-12-23,2017-01-07,Orlando
+Best Western Hotel,285,$9 off your stay,-9,rebate,2017-01-08,2017-01-09,Orlando
+Best Western Hotel,285,$89 off your stay,-89,rebate,2017-01-10,2017-01-12,Orlando
+Drury Inn,306,$50 off your stay 3 nights or more,-50,rebate,2016-12-13,2016-12-21,Orlando
+Drury Inn,306,$14 off your stay,-14,rebate,2016-12-23,2017-01-05,Orlando
+Drury Inn,306,$72 off your stay,-72,rebate,2017-01-08,2017-01-12,Orlando
+Quality Inn,346,%10 off your stay,-10,pct,2016-12-11,2017-01-01,Orlando
+Quality Inn,346,$29 off your stay,-29,rebate,2017-01-03,2017-01-13,Orlando
+Park Plaza,247,$83 off your stay 3 nights or more,-83,rebate,2016-12-11,2016-12-27,Orlando
+Park Plaza,247,$21 off your stay 3 nights or more,-21,rebate,2016-12-29,2017-01-14,Orlando
+Hilton Garden Inn,275,$28 off your stay 3 nights or more,-28,rebate,2016-12-11,2017-01-11,Orlando
+Embassy Suites by Hilton,246,%5 off your stay,-5,pct,2016-12-11,2016-12-20,Orlando
+Embassy Suites by Hilton,246,$48 off your stay,-48,rebate,2016-12-21,2017-01-02,Orlando
+Embassy Suites by Hilton,246,$14 off your stay 3 nights or more,-14,rebate,2017-01-03,2017-01-10,Orlando
+Embassy Suites by Hilton,246,%8 off your stay,-8,pct,2017-01-11,2017-01-27,Orlando
+Hyatt Plaza,333,%7 off your stay,-7,pct,2016-12-11,2017-01-04,Orlando
+Hyatt Plaza,333,%6 off your stay,-6,pct,2017-01-05,2017-01-12,Orlando
+Holiday Inn,269,$43 off your stay,-43,rebate,2016-12-13,2016-12-24,Orlando
+Holiday Inn,269,%7 off your stay,-7,pct,2016-12-26,2017-01-15,Orlando
+Wyndham,296,%16 off your stay,-16,pct,2016-12-11,2016-12-30,Orlando
+Wyndham,296,%17 off your stay,-17,pct,2017-01-02,2017-01-18,Orlando
+Ramada,358,$31 off your stay 3 nights or more,-31,rebate,2016-12-11,2016-12-28,Orlando
+Ramada,358,$22 off your stay,-22,rebate,2016-12-29,2017-01-07,Orlando
+Ramada,358,$52 off your stay,-52,rebate,2017-01-08,2017-01-11,Orlando
+Best Western Hotel,258,$67 off your stay 3 nights or more,-67,rebate,2016-12-11,2016-12-28,San Antonio
+Best Western Hotel,258,%5 off your stay,-5,pct,2016-12-29,2017-01-06,San Antonio
+Best Western Hotel,258,%6 off your stay,-6,pct,2017-01-08,2017-01-25,San Antonio
+Drury Inn,291,$54 off your stay,-54,rebate,2016-12-11,2016-12-13,San Antonio
+Drury Inn,291,$86 off your stay 3 nights or more,-86,rebate,2016-12-14,2017-01-02,San Antonio
+Drury Inn,291,$90 off your stay,-90,rebate,2017-01-03,2017-01-12,San Antonio
+Quality Inn,348,%12 off your stay,-12,pct,2016-12-11,2016-12-24,San Antonio
+Quality Inn,348,%17 off your stay,-17,pct,2016-12-27,2016-12-28,San Antonio
+Quality Inn,348,$20 off your stay,-20,rebate,2016-12-29,2017-01-11,San Antonio
+Quality Inn,348,$35 off your stay 3 nights or more,-35,rebate,2017-01-12,2017-02-02,San Antonio
+Park Plaza,294,$26 off your stay 3 nights or more,-26,rebate,2016-12-15,2016-12-31,San Antonio
+Park Plaza,294,$11 off your stay,-11,rebate,2017-01-01,2017-01-10,San Antonio
+Hilton Garden Inn,278,$57 off your stay 3 nights or more,-57,rebate,2016-12-11,2016-12-15,San Antonio
+Hilton Garden Inn,278,$81 off your stay,-81,rebate,2016-12-17,2016-12-26,San Antonio
+Hilton Garden Inn,278,%7 off your stay,-7,pct,2016-12-27,2017-01-08,San Antonio
+Hilton Garden Inn,278,%7 off your stay,-7,pct,2017-01-10,2017-01-26,San Antonio
+Embassy Suites by Hilton,260,%23 off your stay,-23,pct,2016-12-12,2017-01-06,San Antonio
+Embassy Suites by Hilton,260,$16 off your stay 3 nights or more,-16,rebate,2017-01-07,2017-02-02,San Antonio
+Hyatt Plaza,281,%8 off your stay,-8,pct,2016-12-11,2017-01-03,San Antonio
+Hyatt Plaza,281,$38 off your stay,-38,rebate,2017-01-07,2017-01-22,San Antonio
+Holiday Inn,275,$5 off your stay 3 nights or more,-5,rebate,2016-12-13,2017-01-06,San Antonio
+Holiday Inn,275,%7 off your stay,-7,pct,2017-01-07,2017-01-25,San Antonio
+Wyndham,276,$76 off your stay 3 nights or more,-76,rebate,2016-12-13,2016-12-26,San Antonio
+Wyndham,276,%11 off your stay,-11,pct,2016-12-27,2017-01-16,San Antonio
+Ramada,306,$38 off your stay,-38,rebate,2016-12-13,2016-12-23,San Antonio
+Ramada,306,$20 off your stay,-20,rebate,2016-12-29,2017-01-11,San Antonio
+Best Western Hotel,249,$32 off your stay,-32,rebate,2016-12-11,2016-12-19,Pittsburgh
+Best Western Hotel,249,$9 off your stay,-9,rebate,2016-12-20,2016-12-21,Pittsburgh
+Best Western Hotel,249,%22 off your stay,-22,pct,2016-12-22,2017-01-04,Pittsburgh
+Best Western Hotel,249,$46 off your stay,-46,rebate,2017-01-07,2017-01-20,Pittsburgh
+Drury Inn,298,%6 off your stay,-6,pct,2016-12-13,2017-01-04,Pittsburgh
+Drury Inn,298,$23 off your stay 3 nights or more,-23,rebate,2017-01-06,2017-01-20,Pittsburgh
+Quality Inn,245,$92 off your stay 3 nights or more,-92,rebate,2016-12-11,2016-12-30,Pittsburgh
+Quality Inn,245,%5 off your stay,-5,pct,2017-01-03,2017-01-21,Pittsburgh
+Park Plaza,277,%16 off your stay,-16,pct,2016-12-11,2017-01-01,Pittsburgh
+Park Plaza,277,$17 off your stay 3 nights or more,-17,rebate,2017-01-02,2017-01-26,Pittsburgh
+Hilton Garden Inn,247,$64 off your stay,-64,rebate,2016-12-12,2016-12-20,Pittsburgh
+Hilton Garden Inn,247,%7 off your stay,-7,pct,2016-12-21,2016-12-30,Pittsburgh
+Hilton Garden Inn,247,$43 off your stay 3 nights or more,-43,rebate,2016-12-31,2017-01-04,Pittsburgh
+Hilton Garden Inn,247,$13 off your stay 3 nights or more,-13,rebate,2017-01-05,2017-01-19,Pittsburgh
+Embassy Suites by Hilton,313,%10 off your stay,-10,pct,2016-12-12,2016-12-17,Pittsburgh
+Embassy Suites by Hilton,313,$47 off your stay 3 nights or more,-47,rebate,2016-12-19,2017-01-06,Pittsburgh
+Embassy Suites by Hilton,313,%12 off your stay,-12,pct,2017-01-07,2017-01-17,Pittsburgh
+Hyatt Plaza,359,$31 off your stay 3 nights or more,-31,rebate,2016-12-11,2017-01-02,Pittsburgh
+Hyatt Plaza,359,$23 off your stay,-23,rebate,2017-01-03,2017-01-14,Pittsburgh
+Holiday Inn,340,%15 off your stay,-15,pct,2016-12-11,2016-12-12,Pittsburgh
+Holiday Inn,340,$94 off your stay 3 nights or more,-94,rebate,2016-12-14,2017-01-05,Pittsburgh
+Holiday Inn,340,%5 off your stay,-5,pct,2017-01-06,2017-01-18,Pittsburgh
+Wyndham,295,$78 off your stay 3 nights or more,-78,rebate,2016-12-12,2017-01-03,Pittsburgh
+Wyndham,295,$10 off your stay,-10,rebate,2017-01-04,2017-01-14,Pittsburgh
+Ramada,277,%6 off your stay,-6,pct,2016-12-12,2017-01-05,Pittsburgh
+Ramada,277,$16 off your stay,-16,rebate,2017-01-07,2017-01-20,Pittsburgh
+Best Western Hotel,263,$50 off your stay,-50,rebate,2016-12-11,2016-12-25,Sacramento
+Best Western Hotel,263,$66 off your stay,-66,rebate,2016-12-26,2017-01-10,Sacramento
+Best Western Hotel,263,$54 off your stay,-54,rebate,2017-01-11,2017-01-15,Sacramento
+Drury Inn,324,$15 off your stay,-15,rebate,2016-12-11,2016-12-25,Sacramento
+Drury Inn,324,%6 off your stay,-6,pct,2016-12-27,2017-01-06,Sacramento
+Drury Inn,324,$26 off your stay,-26,rebate,2017-01-09,2017-01-19,Sacramento
+Quality Inn,328,$46 off your stay,-46,rebate,2016-12-11,2016-12-24,Sacramento
+Quality Inn,328,$62 off your stay 3 nights or more,-62,rebate,2016-12-25,2017-01-02,Sacramento
+Quality Inn,328,$29 off your stay,-29,rebate,2017-01-05,2017-01-11,Sacramento
+Quality Inn,328,%7 off your stay,-7,pct,2017-01-12,2017-01-28,Sacramento
+Park Plaza,296,$9 off your stay 3 nights or more,-9,rebate,2016-12-11,2016-12-31,Sacramento
+Park Plaza,296,$55 off your stay,-55,rebate,2017-01-01,2017-01-15,Sacramento
+Hilton Garden Inn,348,$48 off your stay 3 nights or more,-48,rebate,2016-12-12,2016-12-24,Sacramento
+Hilton Garden Inn,348,$27 off your stay,-27,rebate,2016-12-25,2016-12-27,Sacramento
+Hilton Garden Inn,348,%5 off your stay,-5,pct,2016-12-28,2017-01-18,Sacramento
+Embassy Suites by Hilton,269,$67 off your stay 3 nights or more,-67,rebate,2016-12-11,2016-12-16,Sacramento
+Embassy Suites by Hilton,269,%17 off your stay,-17,pct,2016-12-17,2016-12-31,Sacramento
+Embassy Suites by Hilton,269,$55 off your stay,-55,rebate,2017-01-01,2017-01-14,Sacramento
+Hyatt Plaza,255,$30 off your stay 3 nights or more,-30,rebate,2016-12-12,2016-12-15,Sacramento
+Hyatt Plaza,255,$8 off your stay 3 nights or more,-8,rebate,2016-12-16,2016-12-26,Sacramento
+Hyatt Plaza,255,$38 off your stay,-38,rebate,2016-12-27,2016-12-28,Sacramento
+Hyatt Plaza,255,$12 off your stay,-12,rebate,2016-12-29,2017-01-11,Sacramento
+Hyatt Plaza,255,$44 off your stay,-44,rebate,2017-01-12,2017-01-13,Sacramento
+Hyatt Plaza,255,%10 off your stay,-10,pct,2017-01-14,2017-01-28,Sacramento
+Holiday Inn,301,$14 off your stay 3 nights or more,-14,rebate,2016-12-12,2017-01-10,Sacramento
+Wyndham,329,$20 off your stay 3 nights or more,-20,rebate,2016-12-12,2016-12-25,Sacramento
+Wyndham,329,%8 off your stay,-8,pct,2016-12-26,2016-12-29,Sacramento
+Wyndham,329,%8 off your stay,-8,pct,2016-12-30,2017-01-15,Sacramento
+Ramada,338,$96 off your stay,-96,rebate,2016-12-12,2016-12-21,Sacramento
+Ramada,338,%6 off your stay,-6,pct,2016-12-22,2017-01-14,Sacramento
+Best Western Hotel,359,$31 off your stay 3 nights or more,-31,rebate,2016-12-12,2017-01-08,Cincinnai
+Best Western Hotel,359,$30 off your stay 3 nights or more,-30,rebate,2017-01-09,2017-01-26,Cincinnai
+Drury Inn,351,$12 off your stay,-12,rebate,2016-12-11,2016-12-21,Cincinnai
+Drury Inn,351,$6 off your stay 3 nights or more,-6,rebate,2016-12-22,2017-01-15,Cincinnai
+Quality Inn,352,$6 off your stay,-6,rebate,2016-12-11,2016-12-22,Cincinnai
+Quality Inn,352,$6 off your stay 3 nights or more,-6,rebate,2016-12-24,2017-01-09,Cincinnai
+Quality Inn,352,$7 off your stay,-7,rebate,2017-01-11,2017-01-14,Cincinnai
+Park Plaza,245,$13 off your stay 3 nights or more,-13,rebate,2016-12-12,2017-01-07,Cincinnai
+Park Plaza,245,$14 off your stay 3 nights or more,-14,rebate,2017-01-08,2017-01-31,Cincinnai
+Hilton Garden Inn,308,%9 off your stay,-9,pct,2016-12-11,2016-12-31,Cincinnai
+Hilton Garden Inn,308,$64 off your stay 3 nights or more,-64,rebate,2017-01-01,2017-01-29,Cincinnai
+Embassy Suites by Hilton,252,$75 off your stay,-75,rebate,2016-12-12,2016-12-26,Cincinnai
+Embassy Suites by Hilton,252,$12 off your stay,-12,rebate,2016-12-27,2016-12-31,Cincinnai
+Embassy Suites by Hilton,252,$26 off your stay 3 nights or more,-26,rebate,2017-01-01,2017-01-07,Cincinnai
+Embassy Suites by Hilton,252,$71 off your stay,-71,rebate,2017-01-09,2017-01-15,Cincinnai
+Hyatt Plaza,248,%14 off your stay,-14,pct,2016-12-11,2016-12-31,Cincinnai
+Hyatt Plaza,248,%13 off your stay,-13,pct,2017-01-02,2017-01-20,Cincinnai
+Holiday Inn,247,%11 off your stay,-11,pct,2016-12-11,2016-12-13,Cincinnai
+Holiday Inn,247,$49 off your stay 3 nights or more,-49,rebate,2016-12-14,2016-12-21,Cincinnai
+Holiday Inn,247,$17 off your stay 3 nights or more,-17,rebate,2016-12-22,2017-01-11,Cincinnai
+Holiday Inn,247,$47 off your stay 3 nights or more,-47,rebate,2017-01-12,2017-01-27,Cincinnai
+Wyndham,307,$105 off your stay,-105,rebate,2016-12-11,2016-12-13,Cincinnai
+Wyndham,307,%5 off your stay,-5,pct,2016-12-14,2016-12-29,Cincinnai
+Wyndham,307,%13 off your stay,-13,pct,2016-12-30,2017-01-07,Cincinnai
+Wyndham,307,$66 off your stay 3 nights or more,-66,rebate,2017-01-10,2017-01-26,Cincinnai
+Ramada,310,$11 off your stay,-11,rebate,2016-12-11,2016-12-25,Cincinnai
+Ramada,310,%14 off your stay,-14,pct,2016-12-26,2017-01-09,Cincinnai
+Ramada,310,$9 off your stay,-9,rebate,2017-01-10,2017-01-22,Cincinnai
+Best Western Hotel,332,$51 off your stay,-51,rebate,2016-12-11,2016-12-25,Las Vegas
+Best Western Hotel,332,$89 off your stay 3 nights or more,-89,rebate,2016-12-26,2017-01-22,Las Vegas
+Drury Inn,257,$33 off your stay,-33,rebate,2016-12-11,2016-12-25,Las Vegas
+Drury Inn,257,$16 off your stay 3 nights or more,-16,rebate,2016-12-27,2017-01-13,Las Vegas
+Quality Inn,295,$17 off your stay 3 nights or more,-17,rebate,2016-12-11,2017-01-03,Las Vegas
+Quality Inn,295,%6 off your stay,-6,pct,2017-01-04,2017-01-19,Las Vegas
+Park Plaza,307,%8 off your stay,-8,pct,2016-12-11,2016-12-30,Las Vegas
+Park Plaza,307,$13 off your stay,-13,rebate,2017-01-01,2017-01-07,Las Vegas
+Park Plaza,307,%6 off your stay,-6,pct,2017-01-08,2017-01-19,Las Vegas
+Hilton Garden Inn,302,$35 off your stay 3 nights or more,-35,rebate,2016-12-11,2016-12-16,Las Vegas
+Hilton Garden Inn,302,%9 off your stay,-9,pct,2016-12-18,2017-01-04,Las Vegas
+Hilton Garden Inn,302,%5 off your stay,-5,pct,2017-01-05,2017-01-23,Las Vegas
+Embassy Suites by Hilton,324,$12 off your stay,-12,rebate,2016-12-11,2016-12-25,Las Vegas
+Embassy Suites by Hilton,324,%6 off your stay,-6,pct,2016-12-29,2017-01-12,Las Vegas
+Hyatt Plaza,270,%19 off your stay,-19,pct,2016-12-11,2016-12-28,Las Vegas
+Hyatt Plaza,270,$12 off your stay,-12,rebate,2017-01-01,2017-01-14,Las Vegas
+Holiday Inn,323,%15 off your stay,-15,pct,2016-12-11,2016-12-26,Las Vegas
+Holiday Inn,323,$21 off your stay 3 nights or more,-21,rebate,2016-12-27,2016-12-31,Las Vegas
+Holiday Inn,323,%23 off your stay,-23,pct,2017-01-01,2017-01-17,Las Vegas
+Wyndham,318,$29 off your stay 3 nights or more,-29,rebate,2016-12-13,2017-01-09,Las Vegas
+Wyndham,318,%6 off your stay,-6,pct,2017-01-10,2017-01-11,Las Vegas
+Ramada,335,$40 off your stay,-40,rebate,2016-12-12,2016-12-22,Las Vegas
+Ramada,335,%20 off your stay,-20,pct,2016-12-24,2017-01-14,Las Vegas
+Best Western Hotel,266,$7 off your stay 3 nights or more,-7,rebate,2016-12-11,2017-01-05,Kansas City
+Best Western Hotel,266,$40 off your stay,-40,rebate,2017-01-06,2017-01-20,Kansas City
+Drury Inn,208,$11 off your stay 3 nights or more,-11,rebate,2016-12-11,2016-12-23,Kansas City
+Drury Inn,208,$98 off your stay,-98,rebate,2016-12-24,2016-12-29,Kansas City
+Drury Inn,208,%10 off your stay,-10,pct,2016-12-30,2017-01-20,Kansas City
+Quality Inn,225,%5 off your stay,-5,pct,2016-12-13,2016-12-17,Kansas City
+Quality Inn,225,$38 off your stay 3 nights or more,-38,rebate,2016-12-19,2017-01-08,Kansas City
+Quality Inn,225,$54 off your stay 3 nights or more,-54,rebate,2017-01-10,2017-01-16,Kansas City
+Park Plaza,230,$53 off your stay 3 nights or more,-53,rebate,2016-12-11,2016-12-28,Kansas City
+Park Plaza,230,$22 off your stay 3 nights or more,-22,rebate,2016-12-29,2017-01-01,Kansas City
+Park Plaza,230,%17 off your stay,-17,pct,2017-01-03,2017-01-28,Kansas City
+Hilton Garden Inn,205,$31 off your stay 3 nights or more,-31,rebate,2016-12-12,2017-01-07,Kansas City
+Hilton Garden Inn,205,$34 off your stay 3 nights or more,-34,rebate,2017-01-08,2017-01-17,Kansas City
+Embassy Suites by Hilton,237,$17 off your stay 3 nights or more,-17,rebate,2016-12-12,2016-12-26,Kansas City
+Embassy Suites by Hilton,237,%5 off your stay,-5,pct,2016-12-28,2017-01-01,Kansas City
+Embassy Suites by Hilton,237,$27 off your stay,-27,rebate,2017-01-02,2017-01-05,Kansas City
+Embassy Suites by Hilton,237,%6 off your stay,-6,pct,2017-01-06,2017-01-14,Kansas City
+Best Western Hotel,199,%14 off your stay,-14,pct,2016-12-11,2016-12-19,Cleveland
+Best Western Hotel,199,$39 off your stay,-39,rebate,2016-12-20,2016-12-28,Cleveland
+Best Western Hotel,199,$20 off your stay,-20,rebate,2016-12-29,2016-12-30,Cleveland
+Best Western Hotel,199,$45 off your stay,-45,rebate,2016-12-31,2017-01-12,Cleveland
+Best Western Hotel,199,%18 off your stay,-18,pct,2017-01-13,2017-01-21,Cleveland
+Drury Inn,195,$82 off your stay,-82,rebate,2016-12-15,2016-12-21,Cleveland
+Drury Inn,195,$44 off your stay 3 nights or more,-44,rebate,2016-12-22,2017-01-04,Cleveland
+Drury Inn,195,$30 off your stay,-30,rebate,2017-01-05,2017-01-16,Cleveland
+Quality Inn,265,%23 off your stay,-23,pct,2016-12-11,2016-12-25,Cleveland
+Quality Inn,265,%16 off your stay,-16,pct,2016-12-26,2017-01-08,Cleveland
+Quality Inn,265,$67 off your stay 3 nights or more,-67,rebate,2017-01-09,2017-02-04,Cleveland
+Park Plaza,237,%23 off your stay,-23,pct,2016-12-12,2016-12-29,Cleveland
+Park Plaza,237,$52 off your stay,-52,rebate,2017-01-02,2017-01-12,Cleveland
+Hilton Garden Inn,224,$12 off your stay 3 nights or more,-12,rebate,2016-12-11,2017-01-06,Cleveland
+Hilton Garden Inn,224,$6 off your stay,-6,rebate,2017-01-07,2017-01-17,Cleveland
+Embassy Suites by Hilton,256,$32 off your stay,-32,rebate,2016-12-12,2016-12-25,Cleveland
+Embassy Suites by Hilton,256,$91 off your stay,-91,rebate,2016-12-26,2017-01-03,Cleveland
+Embassy Suites by Hilton,256,$63 off your stay,-63,rebate,2017-01-08,2017-01-22,Cleveland
+Best Western Hotel,215,%22 off your stay,-22,pct,2016-12-11,2016-12-24,Austin
+Best Western Hotel,215,$56 off your stay 3 nights or more,-56,rebate,2016-12-25,2017-01-03,Austin
+Best Western Hotel,215,$15 off your stay 3 nights or more,-15,rebate,2017-01-04,2017-01-07,Austin
+Best Western Hotel,215,$72 off your stay,-72,rebate,2017-01-08,2017-01-15,Austin
+Drury Inn,238,$6 off your stay 3 nights or more,-6,rebate,2016-12-11,2016-12-27,Austin
+Drury Inn,238,%10 off your stay,-10,pct,2016-12-29,2017-01-19,Austin
+Quality Inn,203,$15 off your stay 3 nights or more,-15,rebate,2016-12-11,2016-12-20,Austin
+Quality Inn,203,$36 off your stay 3 nights or more,-36,rebate,2016-12-25,2017-01-05,Austin
+Quality Inn,203,$59 off your stay 3 nights or more,-59,rebate,2017-01-07,2017-02-05,Austin
+Park Plaza,268,$9 off your stay,-9,rebate,2016-12-11,2016-12-14,Austin
+Park Plaza,268,$30 off your stay,-30,rebate,2016-12-15,2016-12-22,Austin
+Park Plaza,268,$29 off your stay 3 nights or more,-29,rebate,2016-12-23,2017-01-02,Austin
+Park Plaza,268,$31 off your stay,-31,rebate,2017-01-04,2017-01-14,Austin
+Hilton Garden Inn,195,$59 off your stay,-59,rebate,2016-12-11,2016-12-20,Austin
+Hilton Garden Inn,195,%21 off your stay,-21,pct,2016-12-21,2017-01-12,Austin
+Embassy Suites by Hilton,222,$44 off your stay,-44,rebate,2016-12-11,2016-12-25,Austin
+Embassy Suites by Hilton,222,$29 off your stay,-29,rebate,2016-12-26,2017-01-10,Austin
+Embassy Suites by Hilton,222,$21 off your stay 3 nights or more,-21,rebate,2017-01-11,2017-01-16,Austin
+Best Western Hotel,201,%7 off your stay,-7,pct,2016-12-13,2017-01-03,New Orleans
+Best Western Hotel,201,$64 off your stay 3 nights or more,-64,rebate,2017-01-04,2017-02-03,New Orleans
+Drury Inn,212,$5 off your stay,-5,rebate,2016-12-12,2016-12-25,New Orleans
+Drury Inn,212,$46 off your stay 3 nights or more,-46,rebate,2016-12-27,2017-01-27,New Orleans
+Quality Inn,217,%22 off your stay,-22,pct,2016-12-11,2016-12-26,New Orleans
+Quality Inn,217,$52 off your stay 3 nights or more,-52,rebate,2016-12-28,2017-01-10,New Orleans
+Park Plaza,210,%16 off your stay,-16,pct,2016-12-12,2017-01-06,New Orleans
+Park Plaza,210,$78 off your stay 3 nights or more,-78,rebate,2017-01-07,2017-01-14,New Orleans
+Hilton Garden Inn,253,%7 off your stay,-7,pct,2016-12-11,2016-12-31,New Orleans
+Hilton Garden Inn,253,%9 off your stay,-9,pct,2017-01-02,2017-01-09,New Orleans
+Hilton Garden Inn,253,%6 off your stay,-6,pct,2017-01-10,2017-01-18,New Orleans
+Embassy Suites by Hilton,207,$76 off your stay,-76,rebate,2016-12-11,2016-12-26,New Orleans
+Embassy Suites by Hilton,207,$35 off your stay 3 nights or more,-35,rebate,2016-12-28,2017-01-07,New Orleans
+Embassy Suites by Hilton,207,$68 off your stay 3 nights or more,-68,rebate,2017-01-09,2017-01-28,New Orleans
+Best Western Hotel,242,%10 off your stay,-10,pct,2016-12-11,2017-01-05,Rochester
+Best Western Hotel,242,%18 off your stay,-18,pct,2017-01-08,2017-01-26,Rochester
+Drury Inn,247,%6 off your stay,-6,pct,2016-12-12,2016-12-20,Rochester
+Drury Inn,247,$47 off your stay 3 nights or more,-47,rebate,2016-12-21,2016-12-31,Rochester
+Drury Inn,247,$29 off your stay 3 nights or more,-29,rebate,2017-01-01,2017-01-14,Rochester
+Quality Inn,198,$104 off your stay,-104,rebate,2016-12-15,2016-12-19,Rochester
+Quality Inn,198,$107 off your stay,-107,rebate,2016-12-20,2017-01-01,Rochester
+Quality Inn,198,%5 off your stay,-5,pct,2017-01-02,2017-01-24,Rochester
+Park Plaza,225,$21 off your stay,-21,rebate,2016-12-11,2016-12-25,Rochester
+Park Plaza,225,%5 off your stay,-5,pct,2016-12-27,2017-01-16,Rochester
+Hilton Garden Inn,270,$28 off your stay 3 nights or more,-28,rebate,2016-12-11,2017-01-01,Rochester
+Hilton Garden Inn,270,$22 off your stay,-22,rebate,2017-01-02,2017-01-11,Rochester
+Embassy Suites by Hilton,236,$6 off your stay 3 nights or more,-6,rebate,2016-12-12,2017-01-10,Rochester
+Best Western Hotel,183,$19 off your stay 3 nights or more,-19,rebate,2016-12-11,2017-01-04,San Jose
+Best Western Hotel,183,%7 off your stay,-7,pct,2017-01-05,2017-01-15,San Jose
+Drury Inn,212,$48 off your stay,-48,rebate,2016-12-11,2016-12-17,San Jose
+Drury Inn,212,$31 off your stay 3 nights or more,-31,rebate,2016-12-19,2016-12-25,San Jose
+Drury Inn,212,$30 off your stay 3 nights or more,-30,rebate,2016-12-31,2017-01-03,San Jose
+Drury Inn,212,$13 off your stay,-13,rebate,2017-01-04,2017-01-06,San Jose
+Drury Inn,212,$55 off your stay,-55,rebate,2017-01-07,2017-01-11,San Jose
+Drury Inn,212,%10 off your stay,-10,pct,2017-01-12,2017-01-20,San Jose
+Quality Inn,193,$16 off your stay,-16,rebate,2016-12-11,2016-12-24,San Jose
+Quality Inn,193,$82 off your stay,-82,rebate,2016-12-26,2016-12-27,San Jose
+Quality Inn,193,%16 off your stay,-16,pct,2016-12-29,2017-01-11,San Jose
+Park Plaza,251,$7 off your stay,-7,rebate,2016-12-11,2016-12-26,San Jose
+Park Plaza,251,$28 off your stay,-28,rebate,2016-12-27,2017-01-05,San Jose
+Park Plaza,251,$49 off your stay 3 nights or more,-49,rebate,2017-01-06,2017-02-04,San Jose
+Hilton Garden Inn,207,%5 off your stay,-5,pct,2016-12-13,2017-01-04,San Jose
+Hilton Garden Inn,207,$54 off your stay 3 nights or more,-54,rebate,2017-01-05,2017-01-17,San Jose
+Embassy Suites by Hilton,203,%11 off your stay,-11,pct,2016-12-11,2016-12-28,San Jose
+Embassy Suites by Hilton,203,%6 off your stay,-6,pct,2016-12-30,2017-01-17,San Jose
