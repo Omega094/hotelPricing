@@ -1,0 +1,1 @@
+hotel_name,nightly_rate,promo_txt,deal_value,deal_type,start_date,end_dateHotel Foobar,250,$50 off your stay 3 nights or more,-50,rebate_3plus,2016-03-01,2016-03-31Hotel Foobar,250,5% off your stay,-5,pct,2016-03-01,2016-03-15Hotel Foobar,250,$20 off your stay,-20,rebate,2016-03-07,2016-03-15
