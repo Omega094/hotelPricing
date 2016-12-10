@@ -123,10 +123,24 @@ def greedyPathSearching(cities, start_date, duration):
     dfsSearchCities(cities, start_date, duration, [], all_paths, 0)
     return all_paths
 
+def greedyPathSearchingWithBudgetConstraint(pruning,budgetConstraint, cities, start_date, duration):
+    start_date = datetime.datetime.strptime(start_date, "%Y-%m-%d")
+    end_date   = start_date + datetime.timedelta(int(duration))
+    print start_date, end_date
+    all_paths = []
+    cities = set(cities)
+    dfsSearchCitiesWithBudgetConstraint(pruning,budgetConstraint, cities, start_date, duration, [], all_paths, 0)
+    return all_paths
 
-def optimalPathSearching_memoryCache(cities, start_date, end_date):
-    citiesSet = set(cities)
-    pass
+def greedyPathSearchingWithStayOverConstraint(pruning, minStayOver, maxStayOver,cities, start_date, duration):
+    start_date = datetime.datetime.strptime(start_date, "%Y-%m-%d")
+    end_date   = start_date + datetime.timedelta(int(duration))
+    print start_date, end_date
+    all_paths = []
+    cities = set(cities)
+    dfsSearchCitiesWithStayOverConstraint(pruning, minStayOver, maxStayOver,cities, start_date, duration, [], all_paths, 0)
+    return all_paths
+ 
 
 def dfsSearchCities(cities,current_date, duration, current_path, all_paths, current_expense):
     if not cities and duration == 0: 
@@ -144,10 +158,12 @@ def dfsSearchCities(cities,current_date, duration, current_path, all_paths, curr
     return 
 
 
-def dfsSearchCitiesWithBudgetConstraint(budgetConstraint,cities,current_date, duration, current_path, all_paths, current_expense):
+def dfsSearchCitiesWithBudgetConstraint(pruning ,budgetConstraint,cities,current_date, duration, current_path, all_paths, current_expense):
     #Early pruning when we find the search is running out of budget 
-    if current_expense > budgetConstraint: return 
-    if not cities and duration == 0: 
+    if pruning and current_expense > budgetConstraint: 
+        print "larger !!!!!"
+        return 
+    if (len(cities) ==0  ) and duration == 0 and current_expense < budgetConstraint: 
         all_paths.append(current_path)
         return 
     for nextCity in cities:
@@ -161,10 +177,12 @@ def dfsSearchCitiesWithBudgetConstraint(budgetConstraint,cities,current_date, du
         cities.add(nextCity)
     return 
 
-def dfsSearchCitiesWithStayOverConstraint(minStayOver, maxStayOver,cities,current_date, duration, current_path, all_paths, current_expense):
+def dfsSearchCitiesWithStayOverConstraint(pruning, minStayOver, maxStayOver,cities,current_date, duration, current_path, all_paths, current_expense):
     #Early pruning when we find the search is running out of budget 
-    if current_expense > budgetConstraint: return 
-    if not cities and duration == 0: 
+    if not cities and duration == 0 : 
+        for a, start, end , b, c in current_path:
+            if (end - start).days < minStayOver or (end - start).days > maxStayOver:
+                return 
         all_paths.append(current_path)
         return 
     for nextCity in cities:
@@ -172,7 +190,7 @@ def dfsSearchCitiesWithStayOverConstraint(minStayOver, maxStayOver,cities,curren
         for hotel in LOCATIONDATA[nextCity]:
             for d in xrange(1, duration+1):
                 #Do pruning here 
-                if d < minStayOver or d > maxStayOver:
+                if pruning and d < minStayOver or d > maxStayOver:
                     continue
                 bestDeal, bestDealPrice = hotel.lookBestDeal(current_date , current_date+datetime.timedelta(int(d)) )
                 if bestDeal == None: continue
@@ -182,10 +200,34 @@ def dfsSearchCitiesWithStayOverConstraint(minStayOver, maxStayOver,cities,curren
     return 
 
 
+import timeit
+def testPruning(cities, start_date, duration, budgetConstraint,minStayOver, maxStayOver):
+    start = timeit.default_timer()
+    all_paths = greedyPathSearching(["San Diego", "Denver","St. Louis"], "2016-12-12", 10)
+    #Your statements here
+    stop = timeit.default_timer()
+    print str(stop - start) + " seconds used, which generates " + str(len(all_paths)) + "paths";
+    
+    
+    start = timeit.default_timer()
+    all_paths_budget_limit_pruning_false =  greedyPathSearchingWithBudgetConstraint(False , budgetConstraint, ["San Diego", "Denver","St. Louis"], "2016-12-12", 10)
+    stop = timeit.default_timer()
+    print str(stop - start) + " seconds used, which generates " + str(len(all_paths_budget_limit_pruning_false)) + "paths without pruning for limiting budgets";
+    
+
+    start = timeit.default_timer()
+    all_paths_budget_limit_pruning_true =  greedyPathSearchingWithBudgetConstraint(True , budgetConstraint, ["San Diego", "Denver","St. Louis"], "2016-12-12", 10)
+    stop = timeit.default_timer()
+    print str(stop - start) + " seconds used, which generates " + str(len(all_paths_budget_limit_pruning_true)) + "paths with pruning for limiting budgets";
+
+
+
 
 
 if __name__ == "__main__":
     processDealData("deals_total.csv")
-    all_paths = greedyPathSearching(["San Diego", "Denver","St. Louis"], "2016-12-12", 10)
-    print all_paths
+    all_paths = greedyPathSearching(["San Diego", "Denver","St. Louis"], "2016-12-12", 30)
+    #all_paths_budget_limit = 
+    testPruning(["San Diego", "Denver","St. Louis"], "2016-12-12", 10, 2423.0, None, None)
+    #print all_paths
     print min(all_paths, key = lambda x: x[-1])
