@@ -146,7 +146,7 @@ def dfsSearchCities(cities,current_date, duration, current_path, all_paths, curr
     if not cities and duration == 0: 
         all_paths.append(current_path)
         return 
-    for nextCity in cities:
+    for nextCity in list(cities):
         cities.remove(nextCity)
         for hotel in LOCATIONDATA[nextCity]:
             for d in xrange(1, duration+1):
@@ -161,19 +161,18 @@ def dfsSearchCities(cities,current_date, duration, current_path, all_paths, curr
 def dfsSearchCitiesWithBudgetConstraint(pruning ,budgetConstraint,cities,current_date, duration, current_path, all_paths, current_expense):
     #Early pruning when we find the search is running out of budget 
     if pruning and current_expense > budgetConstraint: 
-        print "larger !!!!!"
         return 
     if (len(cities) ==0  ) and duration == 0 and current_expense < budgetConstraint: 
         all_paths.append(current_path)
         return 
-    for nextCity in cities:
+    for nextCity in list(cities):
         cities.remove(nextCity)
         for hotel in LOCATIONDATA[nextCity]:
             for d in xrange(1, duration+1):
                 bestDeal, bestDealPrice = hotel.lookBestDeal(current_date , current_date+datetime.timedelta(int(d)) )
                 if bestDeal == None: continue
                 nextPath = (nextCity,current_date, current_date+datetime.timedelta(int(d)), bestDeal, current_expense+bestDealPrice)
-                dfsSearchCities(cities, current_date+datetime.timedelta(int(d)),  duration - d ,current_path + [nextPath],all_paths, current_expense + bestDealPrice)
+                dfsSearchCitiesWithBudgetConstraint(pruning,budgetConstraint,cities, current_date+datetime.timedelta(int(d)),  duration - d ,current_path + [nextPath],all_paths, current_expense + bestDealPrice)
         cities.add(nextCity)
     return 
 
@@ -226,8 +225,12 @@ def testPruning(cities, start_date, duration, budgetConstraint,minStayOver, maxS
 
 if __name__ == "__main__":
     processDealData("deals_total.csv")
-    all_paths = greedyPathSearching(["San Diego", "Denver","St. Louis"], "2016-12-12", 30)
+    #
+
+
+    all_paths = greedyPathSearching(["San Diego", "Denver","St. Louis"], "2016-12-12", 10)
     #all_paths_budget_limit = 
-    testPruning(["San Diego", "Denver","St. Louis"], "2016-12-12", 10, 2423.0, None, None)
+    print all_paths
+    testPruning(["San Diego", "Denver","St. Louis"], "2016-12-12", 10, 2600, None, None)
     #print all_paths
     print min(all_paths, key = lambda x: x[-1])
