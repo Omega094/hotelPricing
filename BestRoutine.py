@@ -201,24 +201,26 @@ def dfsSearchCitiesWithStayOverConstraint(pruning, minStayOver, maxStayOver,citi
 
 import timeit
 def testPruning(cities, start_date, duration, budgetConstraint,minStayOver, maxStayOver):
-    start = timeit.default_timer()
-    all_paths = greedyPathSearching(["San Diego", "Denver","St. Louis"], "2016-12-12", 10)
+    #start = timeit.default_timer()
+    #all_paths = greedyPathSearching(["San Diego", "Denver","St. Louis"], "2016-12-12", 10)
     #Your statements here
-    stop = timeit.default_timer()
-    print str(stop - start) + " seconds used, which generates " + str(len(all_paths)) + "paths";
+    #stop = timeit.default_timer()
+    #print str(stop - start) + " seconds used, which generates " + str(len(all_paths)) + "paths";
     
-    
+     
     start = timeit.default_timer()
     all_paths_budget_limit_pruning_false =  greedyPathSearchingWithBudgetConstraint(False , budgetConstraint, ["San Diego", "Denver","St. Louis"], "2016-12-12", 10)
     stop = timeit.default_timer()
     print str(stop - start) + " seconds used, which generates " + str(len(all_paths_budget_limit_pruning_false)) + "paths without pruning for limiting budgets";
-    
+    withPruning = (stop - start)
 
     start = timeit.default_timer()
     all_paths_budget_limit_pruning_true =  greedyPathSearchingWithBudgetConstraint(True , budgetConstraint, ["San Diego", "Denver","St. Louis"], "2016-12-12", 10)
     stop = timeit.default_timer()
     print str(stop - start) + " seconds used, which generates " + str(len(all_paths_budget_limit_pruning_true)) + "paths with pruning for limiting budgets";
-
+    print "#"*100
+    withoutPruning = (stop - start)
+    return (withPruning, withoutPruning)
 
 
 
@@ -231,6 +233,10 @@ if __name__ == "__main__":
     all_paths = greedyPathSearching(["San Diego", "Denver","St. Louis"], "2016-12-12", 10)
     #all_paths_budget_limit = 
     print all_paths
-    testPruning(["San Diego", "Denver","St. Louis"], "2016-12-12", 10, 2600, None, None)
+    data = []
+    for c in range(2500, 2800, 10):
+        data.append(testPruning(["San Diego", "Denver","St. Louis"], "2016-12-12", 10, c, None, None) )
     #print all_paths
+    print data
     print min(all_paths, key = lambda x: x[-1])
+    result = [(4.958031892776489, 4.665524005889893), (4.9019341468811035, 4.675142049789429), (4.931334018707275, 4.724348068237305), (4.917967081069946, 4.657873153686523), (4.882301092147827, 4.625993013381958), (4.97209095954895, 4.7215940952301025), (4.922644138336182, 4.906665802001953), (4.978231906890869, 4.728509902954102), (4.877550840377808, 4.695875883102417), (4.896403074264526, 4.697225093841553), (4.906430959701538, 4.70580792427063), (4.920825004577637, 4.696515083312988), (4.921239852905273, 4.682488918304443), (4.859363079071045, 4.669194936752319), (4.8323259353637695, 4.753751039505005), (4.823515176773071, 4.735503196716309), (4.911808967590332, 4.707944869995117), (4.8561718463897705, 4.7229530811309814), (4.854146957397461, 4.778341054916382), (4.847949981689453, 4.759843111038208), (4.94573187828064, 4.746955156326294), (4.857624053955078, 4.735250949859619), (4.846304893493652, 4.801143169403076), (4.884915113449097, 4.7742719650268555), (4.892518997192383, 4.80780291557312), (4.84738302230835, 4.796269178390503), (4.85838508605957, 4.778513193130493), (4.871511936187744, 4.8066041469573975), (4.88077187538147, 4.851497173309326), (4.880604982376099, 4.845890998840332)]
